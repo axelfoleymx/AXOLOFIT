@@ -1,0 +1,358 @@
+slug,nombre,equipamiento,dificultad,fuerza,mecanica,musculos_principales,musculos_secundarios,url_musclewiki
+barbell-bench-press,Press de banca con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/barbell-bench-press
+push-up,Flexiones,Peso corporal,Principiante,Empuje/Tracción,Compuesto,Pecho,"Deltoides anterior, Tríceps",https://musclewiki.com/es-es/exercise/push-up
+dumbbell-incline-bench-press,Press de banca inclinado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Compuesto,Pecho,"Deltoides anterior, Tríceps",https://musclewiki.com/es-es/exercise/dumbbell-incline-bench-press
+machine-pec-fly,Máquina de apertura de pecho,Máquina,Principiante,Empuje/Tracción,Aislamiento,Pecho,,https://musclewiki.com/es-es/exercise/machine-pec-fly
+barbell-incline-bench-press,Press inclinado con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,Pecho,"Deltoides lateral, Tríceps",https://musclewiki.com/es-es/exercise/barbell-incline-bench-press
+barbell-floor-press,Press en el suelo con barra,Barra,Avanzado,Empuje/Tracción,Compuesto,Tríceps,Pecho,https://musclewiki.com/es-es/exercise/barbell-floor-press
+barbell-hooklying-bench-press,Press de banca con barra en posición hook-lying,Barra,Avanzado,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/barbell-hooklying-bench-press
+dumbbell-bench-press,Press de banca con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/dumbbell-bench-press
+dumbbell-chest-fly,Aperturas con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Pecho,,https://musclewiki.com/es-es/exercise/dumbbell-chest-fly
+box-dips,Fondos en caja,Peso corporal,Intermedio,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/box-dips
+incline-push-up,Flexión inclinada,Peso corporal,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/incline-push-up
+decline-push-up,Flexión declinada,Peso corporal,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/decline-push-up
+neutral-chest-press,Press de pecho con agarre neutro,Máquina,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/neutral-chest-press
+machine-assisted-parallel-bar-dips,Fondos en paralelas asistidos en máquina,Máquina,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/machine-assisted-parallel-bar-dips
+machine-chest-press,Press de pecho en máquina,Máquina,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/machine-chest-press
+cable-chest-press,Press de pecho en polea,Polea,Principiante,Empuje/Tracción,Compuesto,Pecho,"Deltoides anterior, Tríceps",https://musclewiki.com/es-es/exercise/cable-chest-press
+cable-pec-fly,Aperturas en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Pecho,,https://musclewiki.com/es-es/exercise/cable-pec-fly
+cable-incline-chest-fly,Aperturas inclinadas en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Pecho,,https://musclewiki.com/es-es/exercise/cable-incline-chest-fly
+cable-bench-chest-fly,Aperturas en banco con polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Pecho,,https://musclewiki.com/es-es/exercise/cable-bench-chest-fly
+kettlebell-chest-press-single,Press de pecho con pesa rusa (unilateral),Kettlebell,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/kettlebell-chest-press-single
+kettlebell-single-arm-press,Press con kettlebell a un brazo,Kettlebell,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/kettlebell-single-arm-press
+kettlebell-walkover-pushup,Flexión con paso sobre la pesa rusa,Kettlebell,Avanzado,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/kettlebell-walkover-pushup
+band-pushup,Flexiones con banda de resistencia,Banda,Intermedio,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/band-pushup
+band-chest-fly,Aperturas de pecho con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Pecho,,https://musclewiki.com/es-es/exercise/band-chest-fly
+band-chest-press,Press de pecho con banda elástica,Banda,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/band-chest-press
+smith-machine-guillotine-bench-press,Press guillotina en máquina Smith,Máquina Smith,Intermedio,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/smith-machine-guillotine-bench-press
+smith-machine-bench-press,Press de banca en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/smith-machine-bench-press
+smith-machine-incline-bench-press,Press inclinado en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Pecho,"Deltoides lateral, Tríceps",https://musclewiki.com/es-es/exercise/smith-machine-incline-bench-press
+smith-machine-pushup,Flexión en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Pecho,,https://musclewiki.com/es-es/exercise/smith-machine-pushup
+plate-deficit-pushup,Flexión en déficit con discos,Disco,Avanzado,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/plate-deficit-pushup
+weighted-knee-push-ups,Flexiones de rodilla con peso,Disco,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/weighted-knee-push-ups
+weighted-push-ups,Flexiones con peso,Disco,Intermedio,Empuje/Tracción,Compuesto,Pecho,"Deltoides anterior, Tríceps",https://musclewiki.com/es-es/exercise/weighted-push-ups
+trx-pec-fly,Aperturas de pecho en TRX,TRX,Intermedio,Empuje/Tracción,Aislamiento,Pecho,,https://musclewiki.com/es-es/exercise/trx-pec-fly
+trx-pushup,Flexión en TRX,TRX,Principiante,Empuje/Tracción,Compuesto,"Deltoides anterior, Pecho",Tríceps,https://musclewiki.com/es-es/exercise/trx-pushup
+dumbbell-guillotine-incline-bench-press,Press inclinado guillotina con mancuernas,Mancuernas,Avanzado,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/dumbbell-guillotine-incline-bench-press
+barbell-high-incline-bench-press,Press con barra en inclinación alta,Barra,Intermedio,Empuje/Tracción,Compuesto,Pecho,"Deltoides lateral, Tríceps",https://musclewiki.com/es-es/exercise/barbell-high-incline-bench-press
+dumbbell-incline-chest-fly,Aperturas en banco inclinado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Pecho,,https://musclewiki.com/es-es/exercise/dumbbell-incline-chest-fly
+cable-incline-bench-press,Press inclinado con polea,Polea,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/cable-incline-bench-press
+cable-single-arm-incline-bench-press,Press inclinado en polea a un brazo,Polea,Principiante,Empuje/Tracción,Compuesto,Pecho,Tríceps,https://musclewiki.com/es-es/exercise/cable-single-arm-incline-bench-press
+cable-standing-single-arm-incline-chest-press,Press inclinado de pie con polea a un brazo,Polea,Intermedio,Empuje/Tracción,Compuesto,Pecho,"Tríceps, Deltoides anterior",https://musclewiki.com/es-es/exercise/cable-standing-single-arm-incline-chest-press
+kettlebell-incline-bench-press,Press inclinado con kettlebells,Kettlebell,Principiante,Empuje/Tracción,Compuesto,Pecho,"Deltoides lateral, Tríceps",https://musclewiki.com/es-es/exercise/kettlebell-incline-bench-press
+chin-ups,Dominadas supinas,Peso corporal,Intermedio,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/chin-ups
+cable-lat-prayer,Oración en polea para dorsales,Polea,Avanzado,Empuje/Tracción,Aislamiento,Dorsales,,https://musclewiki.com/es-es/exercise/cable-lat-prayer
+dumbbell-row-unilateral,Remo con mancuerna unilateral,Mancuernas,Principiante,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/dumbbell-row-unilateral
+pull-ups,Dominadas,Peso corporal,Intermedio,Empuje/Tracción,Compuesto,Dorsales,"Bíceps, Espalda media",https://musclewiki.com/es-es/exercise/pull-ups
+barbell-bent-over-row,Remo inclinado con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/barbell-bent-over-row
+barbell-long-landmine-row,Remo en landmine (agarre largo),Barra,Avanzado,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/barbell-long-landmine-row
+barbell-meadows-row,Remo Meadows con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/barbell-meadows-row
+barbell-pronated-pendlay-row,Remo Pendlay con barra,Barra,Avanzado,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/barbell-pronated-pendlay-row
+dumbbell-row-bilateral,Remo bilateral con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/dumbbell-row-bilateral
+dumbbell-pullover,Pullover con mancuerna,Mancuernas,Intermedio,Empuje/Tracción,Aislamiento,Dorsales,,https://musclewiki.com/es-es/exercise/dumbbell-pullover
+dumbbell-alternating-pendlay-row,Remo Pendlay alterno con mancuernas,Mancuernas,Avanzado,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/dumbbell-alternating-pendlay-row
+inverted-row,Remo invertido,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/inverted-row
+bodyweight-assisted-chin-up,Dominadas supinas asistidas,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Bíceps, Dorsales",,https://musclewiki.com/es-es/exercise/bodyweight-assisted-chin-up
+machine-pulldown,Jalón en máquina,Máquina,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/machine-pulldown
+machine-seated-cable-row,Remo sentado en polea,Máquina,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/machine-seated-cable-row
+underhand-pulldown,Jalón con agarre supino,Máquina,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/underhand-pulldown
+narrow-pulldown,Jalón con agarre estrecho,Máquina,Principiante,Empuje/Tracción,Compuesto,Dorsales,"Bíceps, Espalda media",https://musclewiki.com/es-es/exercise/narrow-pulldown
+neutral-pulldown,Jalón con agarre neutro,Máquina,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/neutral-pulldown
+cable-bent-over-bar-pullover,Pullover inclinado con barra en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Dorsales,,https://musclewiki.com/es-es/exercise/cable-bent-over-bar-pullover
+cable-archer-row,Remo arquero con polea,Polea,Intermedio,Empuje/Tracción,Compuesto,Dorsales,Deltoides posterior,https://musclewiki.com/es-es/exercise/cable-archer-row
+cable-row-bar-standing-row,Remo de pie en polea con barra,Polea,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/cable-row-bar-standing-row
+cable-single-arm-underhand-grip-row,Remo a un brazo en polea con agarre supino,Polea,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/cable-single-arm-underhand-grip-row
+cable-single-arm-neutral-grip-row,Remo unilateral en polea (agarre neutro),Polea,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/cable-single-arm-neutral-grip-row
+cable-supinating-row,Remo supinador en polea,Polea,Principiante,Empuje/Tracción,Compuesto,Dorsales,Deltoides posterior,https://musclewiki.com/es-es/exercise/cable-supinating-row
+kettlebell-row-single,Remo con pesa rusa a un brazo,Kettlebell,Principiante,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/kettlebell-row-single
+kettlebell-gorilla-row,Remo gorila con pesa rusa,Kettlebell,Intermedio,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/kettlebell-gorilla-row
+band-row,Remo con banda elástica,Banda,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/band-row
+band-pullover,Pullover con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Dorsales,,https://musclewiki.com/es-es/exercise/band-pullover
+band-kneeling-single-arm-pulldown,Jalón unilateral con banda (arrodillado),Banda,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/band-kneeling-single-arm-pulldown
+smith-machine-assisted-pullup,Dominada asistida en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Dorsales,Espalda media,https://musclewiki.com/es-es/exercise/smith-machine-assisted-pullup
+smith-machine-inverted-row,Remo invertido en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/smith-machine-inverted-row
+smith-machine-overhand-row,Remo prono en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/smith-machine-overhand-row
+smith-machine-underhand-row,Remo supino en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/smith-machine-underhand-row
+plate-weighted-inverted-row,Remo invertido con disco,Disco,Intermedio,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/plate-weighted-inverted-row
+weighted-pull-ups,Dominadas con peso,Disco,Avanzado,Empuje/Tracción,Compuesto,Dorsales,"Bíceps, Espalda media",https://musclewiki.com/es-es/exercise/weighted-pull-ups
+trx-single-arm-row,Remo a un brazo en TRX,TRX,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/trx-single-arm-row
+trx-rotating-row,Remo con rotación en TRX,TRX,Principiante,Empuje/Tracción,Compuesto,Dorsales,Bíceps,https://musclewiki.com/es-es/exercise/trx-rotating-row
+bodyweight-overhand-inverted-row,Remo invertido prono,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/bodyweight-overhand-inverted-row
+bodyweight-standing-inverted-row,Remo invertido de pie,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/bodyweight-standing-inverted-row
+barbell-landmine-row,Remo con barra en landmine,Barra,Intermedio,Empuje/Tracción,Compuesto,"Espalda media, Dorsales",Bíceps,https://musclewiki.com/es-es/exercise/barbell-landmine-row
+machine-plate-loaded-low-row,Remo bajo en máquina de discos,Máquina,Principiante,Empuje/Tracción,Compuesto,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/machine-plate-loaded-low-row
+machine-overhand-row,Remo en máquina con agarre prono,Máquina,Principiante,Empuje/Tracción,Compuesto,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/machine-overhand-row
+barbell-deadlift,Peso muerto con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales, Zona lumbar",Espalda media,https://musclewiki.com/es-es/exercise/barbell-deadlift
+barbell-high-pull,Jalón alto con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,"Espalda media, Trapecio",Glúteos,https://musclewiki.com/es-es/exercise/barbell-high-pull
+dumbbell-rear-delt-row,Remo con mancuerna para deltoides posteriores,Mancuernas,Intermedio,Empuje/Tracción,Compuesto,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/dumbbell-rear-delt-row
+band-pull-apart,Separación con banda elástica,Banda,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/band-pull-apart
+band-high-face-pull,Face pull alto con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/band-high-face-pull
+band-rear-delt-fly,Pájaros con banda,Banda,Intermedio,Empuje/Tracción,Aislamiento,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/band-rear-delt-fly
+plate-rear-delt-fly,Pájaros invertidos con disco,Disco,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/plate-rear-delt-fly
+trx-rear-delt-fly,Pájaros en TRX,TRX,Intermedio,Empuje/Tracción,Aislamiento,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/trx-rear-delt-fly
+trx-w-raise,Elevación en W en TRX,TRX,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/trx-w-raise
+trx-y-raise,Elevación en Y en TRX,TRX,Principiante,Empuje/Tracción,Aislamiento,"Deltoides lateral, Deltoides anterior",Trapecio,https://musclewiki.com/es-es/exercise/trx-y-raise
+machine-face-pulls,Face pull en polea con cuerda,Polea,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,Deltoides lateral,https://musclewiki.com/es-es/exercise/machine-face-pulls
+band-face-pull,Face pull con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,Deltoides lateral,https://musclewiki.com/es-es/exercise/band-face-pull
+machine-reverse-fly,Pájaros en máquina (contractor inverso),Máquina,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,,https://musclewiki.com/es-es/exercise/machine-reverse-fly
+landmine-rear-delt-row,Remo en landmine para deltoides posteriores,Barra,Intermedio,Empuje/Tracción,Compuesto,Deltoides posterior,,https://musclewiki.com/es-es/exercise/landmine-rear-delt-row
+dumbbell-rear-delt-fly,Pájaros con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,,https://musclewiki.com/es-es/exercise/dumbbell-rear-delt-fly
+dumbbell-seated-rear-delt-fly,Pájaros sentado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,,https://musclewiki.com/es-es/exercise/dumbbell-seated-rear-delt-fly
+dumbbell-laying-reverse-fly,Pájaros tumbado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,,https://musclewiki.com/es-es/exercise/dumbbell-laying-reverse-fly
+machine-rear-deltoid-row,Remo para deltoides posteriores en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,,https://musclewiki.com/es-es/exercise/machine-rear-deltoid-row
+cable-high-single-arm-rear-delt-fly,Pájaro unilateral en polea alta,Polea,Principiante,Empuje/Tracción,Aislamiento,Deltoides posterior,,https://musclewiki.com/es-es/exercise/cable-high-single-arm-rear-delt-fly
+cable-single-arm-rear-delt-row,Remo unilateral de deltoides posterior en polea,Polea,Avanzado,Empuje/Tracción,Compuesto,Deltoides posterior,Espalda media,https://musclewiki.com/es-es/exercise/cable-single-arm-rear-delt-row
+kettlebell-rear-delt-row,Remo con pesa rusa para deltoides posteriores,Kettlebell,Principiante,Empuje/Tracción,Compuesto,Deltoides posterior,Bíceps,https://musclewiki.com/es-es/exercise/kettlebell-rear-delt-row
+machine-45-degree-back-extension,Hiperextensiones a 45°,Máquina,Principiante,Empuje/Tracción,Aislamiento,Zona lumbar,"Glúteos, Isquiotibiales",https://musclewiki.com/es-es/exercise/machine-45-degree-back-extension
+supermans,Supermans,Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Zona lumbar,,https://musclewiki.com/es-es/exercise/supermans
+machine-back-extension,Extensión de espalda en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Zona lumbar,,https://musclewiki.com/es-es/exercise/machine-back-extension
+machine-reverse-hyperextension,Hiperextensión inversa en máquina,Máquina,Principiante,Empuje/Tracción,Compuesto,"Zona lumbar, Glúteos, Isquiotibiales",,https://musclewiki.com/es-es/exercise/machine-reverse-hyperextension
+dumbbell-superman,Superman con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Zona lumbar,,https://musclewiki.com/es-es/exercise/dumbbell-superman
+barbell-low-bar-good-morning,Buenos días con barra baja,Barra,Avanzado,Empuje/Tracción,Compuesto,Isquiotibiales,"Glúteos, Zona lumbar",https://musclewiki.com/es-es/exercise/barbell-low-bar-good-morning
+good-mornings,Buenos días,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/good-mornings
+dumbbell-goblet-good-morning,Buenos días con mancuerna en copa,Mancuernas,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/dumbbell-goblet-good-morning
+kettlebell-goblet-good-morning,Buenos días con pesa rusa en copa,Kettlebell,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/kettlebell-goblet-good-morning
+band-good-morning,Buenos días con banda,Banda,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/band-good-morning
+barbell-sumo-deadlift,Peso muerto sumo con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,Glúteos,"Cuádriceps, Isquiotibiales",https://musclewiki.com/es-es/exercise/barbell-sumo-deadlift
+barbell-romanian-deadlift,Peso muerto rumano con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/barbell-romanian-deadlift
+dumbbell-romanian-deadlift,Peso muerto rumano con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/dumbbell-romanian-deadlift
+single-legged-romanian-deadlifts,Peso muerto rumano a una pierna,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/single-legged-romanian-deadlifts
+cable-bar-romanian-deadlift,Peso muerto rumano con barra en polea,Polea,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/cable-bar-romanian-deadlift
+cable-single-leg-deadlift,Peso muerto a una pierna con polea,Polea,Avanzado,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/cable-single-leg-deadlift
+kettlebell-deadlift-single,Peso muerto con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/kettlebell-deadlift-single
+kettlebell-swing,Swing con pesa rusa,Kettlebell,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/kettlebell-swing
+kettlebell-single-leg-deadlift,Peso muerto a una pierna con pesa rusa,Kettlebell,Avanzado,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/kettlebell-single-leg-deadlift
+band-romanian-deadlift,Peso muerto rumano con banda,Banda,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/band-romanian-deadlift
+band-pullthrough,Pull-through con banda,Banda,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/band-pullthrough
+cable-pull-through,Pull-through en polea,Polea,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/cable-pull-through
+smith-machine-romanian-deadlift,Peso muerto rumano en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Isquiotibiales,Glúteos,https://musclewiki.com/es-es/exercise/smith-machine-romanian-deadlift
+smith-machine-sumo-romanian-deadlift,Peso muerto rumano sumo en máquina Smith,Máquina Smith,Intermedio,Empuje/Tracción,Compuesto,Glúteos,Isquiotibiales,https://musclewiki.com/es-es/exercise/smith-machine-sumo-romanian-deadlift
+barbell-stiff-leg-deadlifts,Peso muerto piernas rígidas con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/barbell-stiff-leg-deadlifts
+barbell-staggered-deadlift,Peso muerto con pies escalonados,Barra,Avanzado,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/barbell-staggered-deadlift
+barbell-suitcase-deadlift,Peso muerto maleta con barra,Barra,Avanzado,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales, Oblicuos",Zona lumbar,https://musclewiki.com/es-es/exercise/barbell-suitcase-deadlift
+plate-deadlift,Peso muerto con disco,Disco,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Isquiotibiales",Zona lumbar,https://musclewiki.com/es-es/exercise/plate-deadlift
+barbell-shrug,Encogimiento de hombros con barra,Barra,Principiante,Empuje/Tracción,Aislamiento,Trapecio,,https://musclewiki.com/es-es/exercise/barbell-shrug
+barbell-silverback-shrug,Encogimiento Silverback con barra,Barra,Intermedio,Empuje/Tracción,Aislamiento,Trapecio,Espalda media,https://musclewiki.com/es-es/exercise/barbell-silverback-shrug
+dumbbell-shrug,Encogimiento de hombros con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Trapecio,,https://musclewiki.com/es-es/exercise/dumbbell-shrug
+dumbbell-seated-shrug,Encogimiento sentado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Trapecio,,https://musclewiki.com/es-es/exercise/dumbbell-seated-shrug
+cable-30-degree-shrug,Encogimiento en polea a 30°,Polea,Principiante,Empuje/Tracción,Aislamiento,Trapecio,,https://musclewiki.com/es-es/exercise/cable-30-degree-shrug
+machine-seated-shrug,Encogimiento en máquina sentado,Máquina,Principiante,Empuje/Tracción,Aislamiento,Trapecio,,https://musclewiki.com/es-es/exercise/machine-seated-shrug
+machine-standing-shrug,Encogimiento en máquina de pie,Máquina,Principiante,Empuje/Tracción,Aislamiento,Trapecio,,https://musclewiki.com/es-es/exercise/machine-standing-shrug
+kettlebell-shrug-single,Encogimiento con pesa rusa a un brazo,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Trapecio,,https://musclewiki.com/es-es/exercise/kettlebell-shrug-single
+band-shrug,Encogimientos con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Trapecio,,https://musclewiki.com/es-es/exercise/band-shrug
+barbell-upright-row,Remo al mentón con barra,Barra,Avanzado,Empuje/Tracción,Compuesto,"Deltoides lateral, Deltoides anterior",Trapecio,https://musclewiki.com/es-es/exercise/barbell-upright-row
+cable-upright-row,Remo al mentón en polea,Polea,Avanzado,Empuje/Tracción,Compuesto,"Deltoides lateral, Deltoides anterior",Trapecio,https://musclewiki.com/es-es/exercise/cable-upright-row
+kettlebell-upright-row,Remo al mentón con kettlebell,Kettlebell,Principiante,Empuje/Tracción,Compuesto,"Deltoides lateral, Trapecio",Deltoides anterior,https://musclewiki.com/es-es/exercise/kettlebell-upright-row
+smith-machine-upright-row,Remo al mentón en máquina Smith,Máquina Smith,Intermedio,Empuje/Tracción,Compuesto,"Deltoides lateral, Deltoides anterior",Trapecio,https://musclewiki.com/es-es/exercise/smith-machine-upright-row
+band-upright-row,Remo vertical con banda,Banda,Avanzado,Empuje/Tracción,Compuesto,"Deltoides lateral, Deltoides anterior",Trapecio,https://musclewiki.com/es-es/exercise/band-upright-row
+barbell-overhead-press,Press militar con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/barbell-overhead-press
+barbell-z-press,Z press con barra,Barra,Avanzado,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/barbell-z-press
+barbell-behind-the-neck-seated-overhead-press,Press tras nuca sentado con barra,Barra,Avanzado,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/barbell-behind-the-neck-seated-overhead-press
+dumbbell-seated-overhead-press,Press militar sentado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/dumbbell-seated-overhead-press
+cable-overhead-press,Press de hombros en polea,Polea,Principiante,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/cable-overhead-press
+kettlebell-seated-overhead-press,Press militar sentado con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/kettlebell-seated-overhead-press
+band-overhead-press,Press militar con banda,Banda,Principiante,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/band-overhead-press
+smith-machine-seated-overhead-press,Press militar sentado en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/smith-machine-seated-overhead-press
+machine-neutral-overhead-press,Press de hombros neutro en máquina,Máquina,Principiante,Empuje/Tracción,Compuesto,Deltoides anterior,Tríceps,https://musclewiki.com/es-es/exercise/machine-neutral-overhead-press
+machine-overhand-overhead-press,Press de hombros prono en máquina,Máquina,Principiante,Empuje/Tracción,Compuesto,Deltoides anterior,Tríceps,https://musclewiki.com/es-es/exercise/machine-overhand-overhead-press
+machine-front-military-press,Press militar frontal en máquina de discos,Máquina,Principiante,Empuje/Tracción,Compuesto,Deltoides anterior,Tríceps,https://musclewiki.com/es-es/exercise/machine-front-military-press
+elevated-pike-press,Flexión pike con pies elevados,Peso corporal,Intermedio,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral","Tríceps, Trapecio",https://musclewiki.com/es-es/exercise/elevated-pike-press
+bodyweight-pike-press,Press pike con peso corporal,Peso corporal,Intermedio,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",Tríceps,https://musclewiki.com/es-es/exercise/bodyweight-pike-press
+dumbbell-lateral-raise,Elevaciones laterales con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/dumbbell-lateral-raise
+cable-low-single-arm-lateral-raise,Elevación lateral unilateral en polea baja,Polea,Principiante,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/cable-low-single-arm-lateral-raise
+cable-low-bilateral-lateral-raise,Elevación lateral bilateral en polea baja,Polea,Principiante,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/cable-low-bilateral-lateral-raise
+laying-lateral-raise,Elevaciones laterales acostado,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/laying-lateral-raise
+dumbbell-bayesian-lateral-raise,Elevaciones laterales Bayesian con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/dumbbell-bayesian-lateral-raise
+kettlebell-single-arm-lateral-raise,Elevación lateral con pesa rusa a un brazo,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/kettlebell-single-arm-lateral-raise
+band-low-lateral-raise,Elevación lateral baja con banda,Banda,Intermedio,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/band-low-lateral-raise
+band-mid-lateral-raise,Elevación lateral media con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/band-mid-lateral-raise
+machine-standing-lateral-raise,Elevación lateral de pie en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/machine-standing-lateral-raise
+plate-full-lateral-raise,Elevaciones laterales completas con disco,Disco,Intermedio,Empuje/Tracción,Aislamiento,Deltoides lateral,,https://musclewiki.com/es-es/exercise/plate-full-lateral-raise
+barbell-front-raise,Elevación frontal con barra,Barra,Intermedio,Empuje/Tracción,Aislamiento,Deltoides anterior,,https://musclewiki.com/es-es/exercise/barbell-front-raise
+dumbbell-front-raise,Elevaciones frontales con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Deltoides anterior,,https://musclewiki.com/es-es/exercise/dumbbell-front-raise
+kettlebell-front-raise,Elevación frontal con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Deltoides anterior,,https://musclewiki.com/es-es/exercise/kettlebell-front-raise
+band-front-raise,Elevación frontal con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Deltoides anterior,,https://musclewiki.com/es-es/exercise/band-front-raise
+plate-front-raise,Elevación frontal con disco,Disco,Principiante,Empuje/Tracción,Aislamiento,Deltoides anterior,,https://musclewiki.com/es-es/exercise/plate-front-raise
+plate-halo,Halo con disco,Disco,Principiante,Empuje/Tracción,Compuesto,"Deltoides anterior, Deltoides lateral",,https://musclewiki.com/es-es/exercise/plate-halo
+landmine-snatch,Arrancada con landmine,Barra,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Deltoides lateral",Zona lumbar,https://musclewiki.com/es-es/exercise/landmine-snatch
+barbell-curl,Curl con barra,Barra,Intermedio,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/barbell-curl
+barbell-reverse-curl,Curl invertido con barra,Barra,Avanzado,Empuje/Tracción,Aislamiento,Bíceps,Antebrazos,https://musclewiki.com/es-es/exercise/barbell-reverse-curl
+dumbbell-preacher-curl,Curl predicador con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/dumbbell-preacher-curl
+dumbbell-incline-curl,Curl inclinado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/dumbbell-incline-curl
+dumbbell-curl,Curl con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/dumbbell-curl
+dumbbell-hammer-curl,Curl martillo con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Bíceps,Antebrazos,https://musclewiki.com/es-es/exercise/dumbbell-hammer-curl
+dumbbell-reverse-curl,Curl inverso con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Bíceps,Antebrazos,https://musclewiki.com/es-es/exercise/dumbbell-reverse-curl
+bodyweight-inverted-curl,Curl invertido con peso corporal,Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/bodyweight-inverted-curl
+cable-single-arm-bayesian-curl,Curl Bayesian unilateral en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/cable-single-arm-bayesian-curl
+cable-single-arm-hammer-curl,Curl martillo en polea a un brazo,Polea,Principiante,Empuje/Tracción,Aislamiento,Bíceps,Antebrazos,https://musclewiki.com/es-es/exercise/cable-single-arm-hammer-curl
+cable-twisting-curl,Curl con giro en polea,Polea,Avanzado,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/cable-twisting-curl
+cable-single-arm-reverse-curl,Curl inverso en polea a un brazo,Polea,Principiante,Empuje/Tracción,Aislamiento,Bíceps,Antebrazos,https://musclewiki.com/es-es/exercise/cable-single-arm-reverse-curl
+cable-bar-reverse-grip-curl,Curl con agarre inverso en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Antebrazos,Bíceps,https://musclewiki.com/es-es/exercise/cable-bar-reverse-grip-curl
+kettlebell-goblet-curl,Curl en copa con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/kettlebell-goblet-curl
+kettlebell-single-arm-curl,Curl unilateral con kettlebell,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/kettlebell-single-arm-curl
+kettlebell-preacher-curl,Curl predicador con pesa rusa,Kettlebell,Intermedio,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/kettlebell-preacher-curl
+kettlebell-concentration-curl,Curl concentrado con pesa rusa,Kettlebell,Intermedio,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/kettlebell-concentration-curl
+band-bayesian-curl,Curl Bayesian con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/band-bayesian-curl
+band-reverse-curl,Curl invertido con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Bíceps,Antebrazos,https://musclewiki.com/es-es/exercise/band-reverse-curl
+smith-machine-drag-curl,Curl arrastrado en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/smith-machine-drag-curl
+plate-bicep-curl,Curl de bíceps con disco,Disco,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/plate-bicep-curl
+trx-curl,Curl de bíceps en TRX,TRX,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/trx-curl
+trx-hammer-curl,Curl martillo en TRX,TRX,Principiante,Empuje/Tracción,Aislamiento,Bíceps,,https://musclewiki.com/es-es/exercise/trx-hammer-curl
+cable-rope-pushdown,Extensión de tríceps en polea con cuerda,Polea,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/cable-rope-pushdown
+machine-cable-v-bar-push-downs,Extensión de tríceps en polea con barra V,Máquina,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/machine-cable-v-bar-push-downs
+cable-cross-pushdown,Extensión de tríceps en polea cruzada,Polea,Avanzado,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/cable-cross-pushdown
+cable-rope-skullcrusher,Press francés en polea con cuerda,Polea,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/cable-rope-skullcrusher
+cable-rope-overhead-tricep-extension,Extensión de tríceps sobre la cabeza en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/cable-rope-overhead-tricep-extension
+barbell-close-grip-bench-press,Press de banca con agarre cerrado,Barra,Intermedio,Empuje/Tracción,Compuesto,Tríceps,Pecho,https://musclewiki.com/es-es/exercise/barbell-close-grip-bench-press
+smith-machine-close-grip-bench-press,Press cerrado en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Tríceps,Pecho,https://musclewiki.com/es-es/exercise/smith-machine-close-grip-bench-press
+dumbbell-skullcrusher,Press francés con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/dumbbell-skullcrusher
+dumbbell-decline-skullcrusher,Press francés declinado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/dumbbell-decline-skullcrusher
+dumbbell-seated-overhead-tricep-extension,Extensión de tríceps sobre la cabeza con mancuerna,Mancuernas,Intermedio,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/dumbbell-seated-overhead-tricep-extension
+barbell-skullcrusher,Press francés con barra,Barra,Intermedio,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/barbell-skullcrusher
+barbell-overhead-tricep-extension,Extensión de tríceps sobre la cabeza con barra,Barra,Avanzado,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/barbell-overhead-tricep-extension
+bench-dips,Fondos en banco,Peso corporal,Principiante,Empuje/Tracción,Compuesto,Tríceps,,https://musclewiki.com/es-es/exercise/bench-dips
+diamond-push-ups,Flexiones diamante,Peso corporal,Principiante,Empuje/Tracción,Compuesto,Tríceps,Pecho,https://musclewiki.com/es-es/exercise/diamond-push-ups
+kettlebell-decline-skull-crusher,Press francés declinado con pesa rusa,Kettlebell,Avanzado,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/kettlebell-decline-skull-crusher
+band-skullcrusher,Extensión de tríceps con banda,Banda,Avanzado,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/band-skullcrusher
+band-overhead-tricep-extension,Extensión de tríceps sobre la cabeza con banda,Banda,Avanzado,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/band-overhead-tricep-extension
+band-rapunzel-pushdown,Extensión de tríceps con banda (Rapunzel),Banda,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/band-rapunzel-pushdown
+smith-machine-skullcrusher,Press francés en máquina Smith,Máquina Smith,Intermedio,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/smith-machine-skullcrusher
+plate-overhead-tricep-extension,Extensión de tríceps sobre la cabeza con disco,Disco,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/plate-overhead-tricep-extension
+trx-skullcrusher,Extensión de tríceps en TRX,TRX,Principiante,Empuje/Tracción,Aislamiento,Tríceps,,https://musclewiki.com/es-es/exercise/trx-skullcrusher
+barbell-wrist-curl,Curl de muñeca con barra,Barra,Principiante,Empuje/Tracción,Aislamiento,Antebrazos,,https://musclewiki.com/es-es/exercise/barbell-wrist-curl
+barbell-behind-the-back-wrist-curl,Curl de muñeca tras la espalda con barra,Barra,Intermedio,Empuje/Tracción,Aislamiento,Antebrazos,,https://musclewiki.com/es-es/exercise/barbell-behind-the-back-wrist-curl
+dumbbell-wrist-extension,Extensión de muñeca con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Antebrazos,,https://musclewiki.com/es-es/exercise/dumbbell-wrist-extension
+dumbbell-wrist-curl,Curl de muñeca con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Antebrazos,,https://musclewiki.com/es-es/exercise/dumbbell-wrist-curl
+cable-wrist-extension,Extensión de muñeca en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Antebrazos,,https://musclewiki.com/es-es/exercise/cable-wrist-extension
+cable-wrist-curl,Curl de muñeca en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Antebrazos,,https://musclewiki.com/es-es/exercise/cable-wrist-curl
+kettlebell-wrist-curl,Curl de muñeca con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Antebrazos,,https://musclewiki.com/es-es/exercise/kettlebell-wrist-curl
+kettlebell-farmers-carry,Paseo del granjero con kettlebells,Kettlebell,Principiante,Isométrico,Compuesto,Antebrazos,"Trapecio, Abdominales",https://musclewiki.com/es-es/exercise/kettlebell-farmers-carry
+barbell-squat,Sentadilla con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,Cuádriceps,Glúteos,https://musclewiki.com/es-es/exercise/barbell-squat
+barbell-high-bar-squat,Sentadilla con barra alta,Barra,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",,https://musclewiki.com/es-es/exercise/barbell-high-bar-squat
+barbell-low-bar-squat,Sentadilla con barra baja,Barra,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Zona lumbar,https://musclewiki.com/es-es/exercise/barbell-low-bar-squat
+barbell-front-squat-olympic,Sentadilla frontal con barra,Barra,Avanzado,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",Abdominales,https://musclewiki.com/es-es/exercise/barbell-front-squat-olympic
+barbell-step-up,Subida al cajón con barra,Barra,Principiante,Empuje/Tracción,Compuesto,Cuádriceps,Glúteos,https://musclewiki.com/es-es/exercise/barbell-step-up
+barbell-cossack-squat,Sentadilla cosaca con barra,Barra,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Aductores,https://musclewiki.com/es-es/exercise/barbell-cossack-squat
+barbell-curtsy-lunge,Zancada de reverencia con barra,Barra,Avanzado,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/barbell-curtsy-lunge
+dumbbell-goblet-squat,Sentadilla goblet con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",,https://musclewiki.com/es-es/exercise/dumbbell-goblet-squat
+dumbbell-bulgarian-split-squat,Sentadilla búlgara con mancuernas,Mancuernas,Intermedio,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",,https://musclewiki.com/es-es/exercise/dumbbell-bulgarian-split-squat
+dumbbell-goblet-lateral-lunge,Zancada lateral goblet con mancuerna,Mancuernas,Avanzado,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Aductores,https://musclewiki.com/es-es/exercise/dumbbell-goblet-lateral-lunge
+dumbbell-cossack-squat,Sentadilla cosaca con mancuernas,Mancuernas,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Aductores,https://musclewiki.com/es-es/exercise/dumbbell-cossack-squat
+dumbbell-goblet-curtsy-lunge,Zancada cruzada goblet con mancuerna,Mancuernas,Avanzado,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/dumbbell-goblet-curtsy-lunge
+bodyweight-squat,Sentadilla con peso corporal,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",Aductores,https://musclewiki.com/es-es/exercise/bodyweight-squat
+forward-lunges,Zancadas hacia adelante,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",,https://musclewiki.com/es-es/exercise/forward-lunges
+bodyweight-reverse-lunge,Zancada inversa con peso corporal,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/bodyweight-reverse-lunge
+bulgarian-split-squat,Sentadilla búlgara,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",,https://musclewiki.com/es-es/exercise/bulgarian-split-squat
+jump-squats,Sentadillas con salto,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",,https://musclewiki.com/es-es/exercise/jump-squats
+curtsy-lunge,Zancada de reverencia,Peso corporal,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/curtsy-lunge
+bodyweight-cossack-squat,Sentadilla cosaca con peso corporal,Peso corporal,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Aductores,https://musclewiki.com/es-es/exercise/bodyweight-cossack-squat
+machine-leg-press,Prensa de piernas,Máquina,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",,https://musclewiki.com/es-es/exercise/machine-leg-press
+vertical-leg-press,Prensa de piernas vertical,Máquina,Principiante,Empuje/Tracción,Compuesto,Glúteos,Cuádriceps,https://musclewiki.com/es-es/exercise/vertical-leg-press
+machine-belt-squat,Sentadilla con cinturón en máquina,Máquina,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",,https://musclewiki.com/es-es/exercise/machine-belt-squat
+machine-leg-extension,Extensión de piernas en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Cuádriceps,,https://musclewiki.com/es-es/exercise/machine-leg-extension
+machine-sissy-squat,Sissy squat en máquina,Máquina,Intermedio,Empuje/Tracción,Compuesto,Cuádriceps,,https://musclewiki.com/es-es/exercise/machine-sissy-squat
+machine-goblet-sissy-squat,Sissy squat goblet en máquina,Máquina,Intermedio,Empuje/Tracción,Compuesto,Cuádriceps,Glúteos,https://musclewiki.com/es-es/exercise/machine-goblet-sissy-squat
+cable-split-squat,Sentadilla dividida en polea,Polea,Avanzado,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/cable-split-squat
+cable-goblet-squat,Sentadilla goblet en polea,Polea,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Zona lumbar,https://musclewiki.com/es-es/exercise/cable-goblet-squat
+cable-zercher-squat,Sentadilla Zercher en polea,Polea,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Zona lumbar,https://musclewiki.com/es-es/exercise/cable-zercher-squat
+cable-standing-leg-extension,Extensión de pierna de pie en polea,Polea,Avanzado,Empuje/Tracción,Aislamiento,Cuádriceps,,https://musclewiki.com/es-es/exercise/cable-standing-leg-extension
+kettlebell-goblet-squat,Sentadilla goblet con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Compuesto,"Cuádriceps, Glúteos",Zona lumbar,https://musclewiki.com/es-es/exercise/kettlebell-goblet-squat
+kettlebell-single-arm-forward-lunge,Zancada con kettlebell a un brazo,Kettlebell,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/kettlebell-single-arm-forward-lunge
+kettlebell-step-up,Subida al cajón con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/kettlebell-step-up
+kettlebell-lateral-lunge-single,Zancada lateral con pesa rusa,Kettlebell,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Aductores,https://musclewiki.com/es-es/exercise/kettlebell-lateral-lunge-single
+kettlebell-cossack-squat,Sentadilla cosaca con kettlebell,Kettlebell,Intermedio,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",Aductores,https://musclewiki.com/es-es/exercise/kettlebell-cossack-squat
+kettlebell-alternating-curtsy-lunge,Zancada de reverencia alterna con kettlebell,Kettlebell,Intermedio,Empuje/Tracción,Compuesto,Glúteos,Cuádriceps,https://musclewiki.com/es-es/exercise/kettlebell-alternating-curtsy-lunge
+band-squat,Sentadilla con banda,Banda,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/band-squat
+band-spanish-squat,Sentadilla española con banda,Banda,Avanzado,Empuje/Tracción,Compuesto,Cuádriceps,Glúteos,https://musclewiki.com/es-es/exercise/band-spanish-squat
+band-leg-extension,Extensión de piernas con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Cuádriceps,,https://musclewiki.com/es-es/exercise/band-leg-extension
+smith-machine-squat,Sentadilla en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Compuesto,Cuádriceps,Glúteos,https://musclewiki.com/es-es/exercise/smith-machine-squat
+smith-machine-leg-press,Prensa de piernas en máquina Smith,Máquina Smith,Intermedio,Empuje/Tracción,Compuesto,Cuádriceps,Glúteos,https://musclewiki.com/es-es/exercise/smith-machine-leg-press
+smith-machine-split-squat,Sentadilla dividida en máquina Smith,Máquina Smith,Intermedio,Empuje/Tracción,Compuesto,Cuádriceps,Glúteos,https://musclewiki.com/es-es/exercise/smith-machine-split-squat
+smith-machine-sissy-squat,Sissy squat en máquina Smith,Máquina Smith,Avanzado,Empuje/Tracción,Aislamiento,Cuádriceps,,https://musclewiki.com/es-es/exercise/smith-machine-sissy-squat
+plate-squat,Sentadilla con disco,Disco,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/plate-squat
+trx-reverse-lunge,Zancada inversa en TRX,TRX,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/trx-reverse-lunge
+trx-lateral-lunge,Zancada lateral en TRX,TRX,Principiante,Empuje/Tracción,Compuesto,"Glúteos, Cuádriceps",,https://musclewiki.com/es-es/exercise/trx-lateral-lunge
+glute-ham-raise,Elevación glúteo-femoral (GHR),Máquina,Intermedio,Empuje/Tracción,Aislamiento,Isquiotibiales,Glúteos,https://musclewiki.com/es-es/exercise/glute-ham-raise
+machine-hamstring-curl,Curl femoral tumbado en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Isquiotibiales,,https://musclewiki.com/es-es/exercise/machine-hamstring-curl
+machine-seated-leg-curl,Curl femoral sentado en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Isquiotibiales,,https://musclewiki.com/es-es/exercise/machine-seated-leg-curl
+dumbbell-leg-curl,Curl femoral con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Isquiotibiales,,https://musclewiki.com/es-es/exercise/dumbbell-leg-curl
+nordic-hamstring-curl,Curl nórdico,Peso corporal,Intermedio,Empuje/Tracción,Aislamiento,Isquiotibiales,,https://musclewiki.com/es-es/exercise/nordic-hamstring-curl
+cable-hamstring-curl,Curl femoral en polea,Polea,Avanzado,Empuje/Tracción,Aislamiento,Isquiotibiales,,https://musclewiki.com/es-es/exercise/cable-hamstring-curl
+band-leg-curl,Curl femoral con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Isquiotibiales,,https://musclewiki.com/es-es/exercise/band-leg-curl
+trx-hamstring-curl,Curl femoral en TRX,TRX,Principiante,Empuje/Tracción,Aislamiento,Isquiotibiales,,https://musclewiki.com/es-es/exercise/trx-hamstring-curl
+barbell-hip-thrust,Hip thrust con barra,Barra,Principiante,Empuje/Tracción,Compuesto,Glúteos,Isquiotibiales,https://musclewiki.com/es-es/exercise/barbell-hip-thrust
+dumbbell-hip-thrust,Hip thrust con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Compuesto,Glúteos,Isquiotibiales,https://musclewiki.com/es-es/exercise/dumbbell-hip-thrust
+kettlebell-hip-thrust,Hip thrust con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Compuesto,Glúteos,Isquiotibiales,https://musclewiki.com/es-es/exercise/kettlebell-hip-thrust
+smith-machine-single-leg-hip-thrust,Hip thrust a una pierna en máquina Smith,Máquina Smith,Intermedio,Empuje/Tracción,Compuesto,Glúteos,Isquiotibiales,https://musclewiki.com/es-es/exercise/smith-machine-single-leg-hip-thrust
+glute-bridge,Puente de glúteos,Peso corporal,Principiante,Empuje/Tracción,Compuesto,Glúteos,Isquiotibiales,https://musclewiki.com/es-es/exercise/glute-bridge
+dumbbell-glute-bridge,Puente de glúteos con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Compuesto,Glúteos,Isquiotibiales,https://musclewiki.com/es-es/exercise/dumbbell-glute-bridge
+trx-glute-bridge,Puente de glúteos en TRX,TRX,Principiante,Empuje/Tracción,Compuesto,Glúteos,Isquiotibiales,https://musclewiki.com/es-es/exercise/trx-glute-bridge
+gluteator,Máquina de glúteo (gluteator),Máquina,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/gluteator
+cable-standing-straight-leg-glute-glute-kickback,Patada de glúteo en polea con pierna recta,Polea,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/cable-standing-straight-leg-glute-glute-kickback
+band-glute-kickback,Patada de glúteo con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/band-glute-kickback
+smith-machine-glute-kickback,Patada de glúteo en máquina Smith,Máquina Smith,Intermedio,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/smith-machine-glute-kickback
+cable-standing-hip-abduction,Abducción de cadera de pie en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/cable-standing-hip-abduction
+machine-hip-abduction,Abducción de cadera en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/machine-hip-abduction
+machine-hip-and-glute-abduction,Abducción de cadera y glúteo en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/machine-hip-and-glute-abduction
+dumbbell-standing-hip-abduction,Abducción de cadera de pie con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/dumbbell-standing-hip-abduction
+bodyweight-hip-abduction,Abducción de cadera con peso corporal,Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/bodyweight-hip-abduction
+cable-quadruped-hip-abduction,Abducción de cadera en cuadrupedia con polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/cable-quadruped-hip-abduction
+band-hip-abduction,Abducción de cadera con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/band-hip-abduction
+mini-band-clamshell,Clamshell con minibanda,Banda,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/mini-band-clamshell
+side-walks-resisted,Caminata lateral con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Glúteos,,https://musclewiki.com/es-es/exercise/side-walks-resisted
+machine-hip-adduction,Aducción de cadera en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Aductores,,https://musclewiki.com/es-es/exercise/machine-hip-adduction
+cable-standing-hip-adduction,Aducción de cadera de pie en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Aductores,,https://musclewiki.com/es-es/exercise/cable-standing-hip-adduction
+band-hip-adduction,Aducción de cadera con banda,Banda,Intermedio,Empuje/Tracción,Aislamiento,Aductores,,https://musclewiki.com/es-es/exercise/band-hip-adduction
+machine-standing-calf-raises,Elevación de gemelos de pie en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/machine-standing-calf-raises
+machine-seated-calf-raises,Elevación de gemelos sentado en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/machine-seated-calf-raises
+machine-horizontal-leg-press-calf-raise,Elevación de gemelos en prensa horizontal,Máquina,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/machine-horizontal-leg-press-calf-raise
+barbell-calf-raises,Elevación de gemelos con barra,Barra,Intermedio,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/barbell-calf-raises
+barbell-seated-calf-raise,Elevación de gemelos sentado con barra,Barra,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/barbell-seated-calf-raise
+dumbbell-calf-raise,Elevación de gemelos con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/dumbbell-calf-raise
+dumbbell-seated-calf-raise,Elevación de gemelos sentado con mancuernas,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/dumbbell-seated-calf-raise
+dumbbell-single-leg-calf-raise,Elevación de gemelo a una pierna con mancuerna,Mancuernas,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/dumbbell-single-leg-calf-raise
+calf-raises,Elevación de gemelos,Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/calf-raises
+bodyweight-donkey-calf-raise,Elevación de gemelos tipo burro,Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/bodyweight-donkey-calf-raise
+cable-bar-calve-raise,Elevación de gemelos con barra en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/cable-bar-calve-raise
+kettlebell-single-leg-calf-raise,Elevación de gemelo a una pierna con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/kettlebell-single-leg-calf-raise
+smith-machine-calf-raise,Elevación de gemelos en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/smith-machine-calf-raise
+smith-machine-seated-calf-raise,Elevación de gemelos sentado en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/smith-machine-seated-calf-raise
+band-calf-raise,Elevación de gemelos con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Gemelos,,https://musclewiki.com/es-es/exercise/band-calf-raise
+hand-plank,Plancha alta,Peso corporal,Principiante,Isométrico,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/hand-plank
+long-lever-plank,Plancha de palanca larga,Peso corporal,Avanzado,Isométrico,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/long-lever-plank
+weighted-forearm-plank,Plancha en antebrazos con peso,Disco,Intermedio,Isométrico,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/weighted-forearm-plank
+crunches,Abdominales (crunch),Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/crunches
+laying-leg-raises,Elevaciones de piernas tumbado,Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/laying-leg-raises
+hanging-knee-raises,Elevaciones de rodillas colgado,Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/hanging-knee-raises
+barbell-situp,Abdominal con barra,Barra,Intermedio,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/barbell-situp
+barbell-roll-outs,Rueda abdominal con barra (rollout),Barra,Avanzado,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/barbell-roll-outs
+dumbbell-hollow-hold,Posición hollow con mancuerna,Mancuernas,Avanzado,Isométrico,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/dumbbell-hollow-hold
+machine-crunch,Abdominales en máquina,Máquina,Principiante,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/machine-crunch
+cable-rope-kneeling-crunch,Crunch arrodillado en polea con cuerda,Polea,Principiante,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/cable-rope-kneeling-crunch
+cable-standing-crunch,Crunch de pie en polea,Polea,Intermedio,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/cable-standing-crunch
+cable-rope-kneeling-oblique-crunch,Crunch oblicuo arrodillado en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/cable-rope-kneeling-oblique-crunch
+kettlebell-situp,Abdominal con kettlebell,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/kettlebell-situp
+band-crunch,Crunch con banda,Banda,Intermedio,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/band-crunch
+smith-machine-hanging-knee-tuck,Elevación de rodillas colgado en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/smith-machine-hanging-knee-tuck
+smith-machine-reverse-crunch-hip-raise,Crunch inverso con elevación de cadera en Smith,Máquina Smith,Intermedio,Empuje/Tracción,Aislamiento,Abdominales,,https://musclewiki.com/es-es/exercise/smith-machine-reverse-crunch-hip-raise
+trx-ab-rollout,Rollout abdominal en TRX,TRX,Avanzado,Empuje/Tracción,Aislamiento,Abdominales,Dorsales,https://musclewiki.com/es-es/exercise/trx-ab-rollout
+trx-kneeling-ab-rollout,Rollout abdominal de rodillas en TRX,TRX,Intermedio,Empuje/Tracción,Aislamiento,Abdominales,Dorsales,https://musclewiki.com/es-es/exercise/trx-kneeling-ab-rollout
+hand-side-plank,Plancha lateral sobre la mano,Peso corporal,Principiante,Isométrico,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/hand-side-plank
+elbow-side-plank,Plancha lateral sobre antebrazo,Peso corporal,Principiante,Isométrico,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/elbow-side-plank
+side-plank-up-down,Plancha lateral con subida y bajada,Peso corporal,Intermedio,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/side-plank-up-down
+dumbbell-russian-twist,Giro ruso con mancuerna,Mancuernas,Intermedio,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/dumbbell-russian-twist
+bodyweight-russian-twist,Giro ruso con peso corporal,Peso corporal,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/bodyweight-russian-twist
+kettlebell-russian-twist,Giro ruso con kettlebell,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/kettlebell-russian-twist
+kettlebell-windmill,Molino con pesa rusa,Kettlebell,Avanzado,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/kettlebell-windmill
+dumbbell-wood-chopper,Leñador con mancuerna,Mancuernas,Intermedio,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/dumbbell-wood-chopper
+dumbbell-half-kneeling-wood-chopper,Leñador medio arrodillado con mancuerna,Mancuernas,Intermedio,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/dumbbell-half-kneeling-wood-chopper
+cable-pallof-press,Press Pallof en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/cable-pallof-press
+cable-wood-chopper,Leñador en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/cable-wood-chopper
+cable-half-kneeling-high-to-low-wood-chopper,Leñador alto-bajo medio arrodillado en polea,Polea,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/cable-half-kneeling-high-to-low-wood-chopper
+kettlebell-wood-chopper,Leñador con pesa rusa,Kettlebell,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/kettlebell-wood-chopper
+band-pallof-press,Press Pallof con banda,Banda,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/band-pallof-press
+band-wood-chopper,Leñador con banda,Banda,Avanzado,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/band-wood-chopper
+barbell-landmine-side-bend,Inclinación lateral en landmine,Barra,Intermedio,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/barbell-landmine-side-bend
+smith-machine-side-bend,Inclinación lateral en máquina Smith,Máquina Smith,Principiante,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/smith-machine-side-bend
+plate-russian-twist,Giro ruso con disco,Disco,Intermedio,Empuje/Tracción,Aislamiento,Oblicuos,Abdominales,https://musclewiki.com/es-es/exercise/plate-russian-twist
+landmine-kneeling-twist,Rotación arrodillado en landmine,Barra,Intermedio,Empuje/Tracción,Aislamiento,Oblicuos,,https://musclewiki.com/es-es/exercise/landmine-kneeling-twist

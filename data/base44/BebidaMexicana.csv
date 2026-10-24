@@ -1,0 +1,101 @@
+id_bebida,nombre,categoria,porcion_ml,kcal_por_porcion,azucar_g,cafeina_mg,alcohol_pct,perfil_salud,padecimientos_precaucion,notas,temporada
+100,Agua de garrafón,agua,250.0,0.0,0.0,0.0,0.0,muy_saludable,ninguno,Muy común en hogares mexicanos.,todo_el_año
+99,Agua alcalina comercial,agua,250.0,0.0,0.0,0.0,0.0,saludable,ninguno,No superior de forma general a agua simple.,todo_el_año
+98,Néctar de durazno,jugo_industrial,250.0,130.0,31.0,0.0,0.0,poco_saludable,diabetes/obesidad,Alta carga de azúcar.,todo_el_año
+97,Jugo industrial de manzana,jugo_industrial,250.0,115.0,27.0,0.0,0.0,poco_saludable,diabetes/obesidad,Preferir fruta entera.,todo_el_año
+96,Boing de guayaba,jugo_industrial,250.0,115.0,27.0,0.0,0.0,poco_saludable,diabetes/obesidad,Popular en México.,todo_el_año
+95,Boing de mango,jugo_industrial,250.0,120.0,28.0,0.0,0.0,poco_saludable,diabetes/obesidad,"Popular, alto azúcar.",todo_el_año
+94,Sangría/refresco sabor sangría,refresco,355.0,160.0,40.0,0.0,0.0,poco_saludable,diabetes/obesidad,Refresco popular; evitar hábito.,todo_el_año
+93,Agua de romeritos,agua_fresca,250.0,20.0,2.0,0.0,0.0,saludable,ERC por potasio individualizar,Experimental; validar aceptación.,invierno
+92,Caldo de verduras bajo sodio,caldo,250.0,25.0,2.0,0.0,0.0,saludable,ninguno,Ligero y útil en cenas.,todo_el_año
+91,Consomé de pollo casero,caldo,250.0,60.0,0.0,0.0,0.0,moderada,hipertensión/ERC si salado,Bajo sodio si se prepara en casa.,todo_el_año
+90,Agua de romero con limón,infusion,240.0,5.0,0.0,0.0,0.0,saludable,embarazo/medicamentos valorar,Uso culinario; evitar megadosis.,todo_el_año
+89,Frappé de café azucarado,cafe,355.0,350.0,50.0,120.0,0.0,poco_saludable,diabetes/obesidad/ansiedad,Muy energético.,todo_el_año
+88,Malteada de chocolate,licuado,355.0,420.0,55.0,10.0,0.0,poco_saludable,diabetes/obesidad,Postre líquido.,todo_el_año
+87,Agua fresca de guanábana,agua_fresca,250.0,110.0,22.0,0.0,0.0,moderada,diabetes/obesidad,Densa en carbohidratos.,verano-otoño
+86,Agua fresca de papaya,agua_fresca,250.0,70.0,13.0,0.0,0.0,saludable,diabetes porción controlada,Digestiva.,todo_el_año
+85,Agua fresca de fresa sin azúcar,agua_fresca,250.0,65.0,10.0,0.0,0.0,saludable,diabetes porción controlada,Mejor con fruta entera.,primavera
+84,Clamato preparado,preparada,250.0,120.0,18.0,0.0,0.0,poco_saludable,hipertensión/gastritis,Alto sodio.,todo_el_año
+83,Limonada mineral con azúcar,agua_fresca,250.0,120.0,28.0,0.0,0.0,moderada,diabetes/gastritis,Alta en azúcar.,todo_el_año
+82,Naranjada mineral sin azúcar,agua_fresca,250.0,30.0,5.0,0.0,0.0,moderada,gastritis/reflujo,Mejor sin jarabe.,todo_el_año
+81,Agua infusionada con frutas,agua,250.0,10.0,1.0,0.0,0.0,saludable,ninguno,Buena estrategia para tomar agua.,todo_el_año
+80,Infusión de jamaica con canela,infusion,240.0,5.0,0.0,0.0,0.0,saludable,embarazo/diuréticos valorar,Sin azúcar añadida.,todo_el_año
+79,Té de hojas de guayaba,infusion,240.0,2.0,0.0,0.0,0.0,saludable,embarazo valorar,Uso tradicional digestivo; validar.,todo_el_año
+78,Té de azahar,infusion,240.0,2.0,0.0,0.0,0.0,saludable,sedantes/embarazo valorar,Tradicional para descanso.,todo_el_año
+77,Té de tila,infusion,240.0,2.0,0.0,0.0,0.0,saludable,sedantes/embarazo valorar,Relajante.,todo_el_año
+76,Agua de chaya con limón,agua_fresca,250.0,20.0,2.0,0.0,0.0,saludable,gastritis si limón irrita,Usar chaya cocida.,todo_el_año
+75,Agua de nopal con piña,agua_fresca,250.0,55.0,9.0,0.0,0.0,saludable,diabetes porción controlada,Fibra soluble si no se cuela.,todo_el_año
+74,Agua de xoconostle,agua_fresca,250.0,35.0,6.0,0.0,0.0,saludable,gastritis por acidez,Ácida y baja en azúcar.,otoño-invierno
+73,Agua de tuna,agua_fresca,250.0,80.0,16.0,0.0,0.0,saludable,diabetes porción controlada,Mexicana y de temporada.,verano-otoño
+72,Agua de alfalfa con limón,agua_fresca,250.0,25.0,3.0,0.0,0.0,saludable,gastritis si limón irrita,Refrescante.,primavera-verano
+71,Agua de cebada,agua_fresca,250.0,90.0,18.0,0.0,0.0,moderada,diabetes por porción,Preparar sin azúcar.,todo_el_año
+70,Rompope,alcoholica,120.0,260.0,30.0,0.0,10.0,poco_saludable,diabetes/obesidad/hepatopatía,Alto en azúcar y grasa.,invierno
+69,Margarita clásica,alcoholica,180.0,250.0,24.0,0.0,12.0,poco_saludable,diabetes/gastritis/hepatopatía,Azúcar y alcohol.,todo_el_año
+68,Mezcal derecho,alcoholica,45.0,98.0,0.0,0.0,40.0,poco_saludable,embarazo/hepatopatía/medicamentos,Alcohol concentrado.,todo_el_año
+67,Tequila derecho,alcoholica,45.0,98.0,0.0,0.0,38.0,poco_saludable,embarazo/hepatopatía/medicamentos,Alcohol concentrado; no saludable.,todo_el_año
+66,Michelada,alcoholica,500.0,220.0,20.0,0.0,4.5,poco_saludable,hipertensión/gota/gastritis,Alta en sodio y alcohol.,todo_el_año
+65,Cerveza sin alcohol,alcoholica,355.0,80.0,10.0,0.0,0.5,moderada,diabetes por carbohidrato,"Menos alcohol, contiene carbohidratos.",todo_el_año
+64,Cerveza clara,alcoholica,355.0,145.0,0.0,0.0,4.5,poco_saludable,embarazo/hepatopatía/gota,Alcohol; evitar en gota y embarazo.,todo_el_año
+63,Pulque natural,alcoholica,250.0,145.0,7.0,0.0,4.5,moderada,embarazo/hepatopatía/medicamentos,Bebida tradicional alcohólica.,todo_el_año
+62,Tepache,fermentada,250.0,90.0,18.0,0.0,1.5,moderada,diabetes/embarazo/alcohol,Fermentado tradicional con algo de alcohol.,todo_el_año
+61,Kéfir natural,lactea,240.0,140.0,12.0,0.0,0.0,saludable,intolerancia lactosa/ERC,Probiótico.,todo_el_año
+60,Yakult o lácteo fermentado azucarado,lactea,80.0,60.0,11.0,0.0,0.0,moderada,diabetes/obesidad,Probiótico pero azucarado.,todo_el_año
+59,Bebida de avena sin azúcar,vegetal,240.0,100.0,7.0,0.0,0.0,moderada,diabetes por carbohidrato,Revisar azúcar añadida.,todo_el_año
+58,Bebida de almendra sin azúcar,vegetal,240.0,30.0,0.0,0.0,0.0,saludable,alergia nueces,Baja en kcal; menos proteína.,todo_el_año
+57,Bebida de soya sin azúcar,vegetal,240.0,90.0,2.0,0.0,0.0,saludable,alergia soya/ERC,Preferir fortificada sin azúcar.,todo_el_año
+56,Leche deslactosada,lactea,240.0,130.0,12.0,0.0,0.0,saludable,ERC por fósforo/potasio,Útil en intolerancia a lactosa.,todo_el_año
+55,Leche descremada,lactea,240.0,85.0,12.0,0.0,0.0,saludable,intolerancia lactosa/ERC,Buena opción para calcio con menos grasa.,todo_el_año
+54,Leche entera,lactea,240.0,150.0,12.0,0.0,0.0,moderada,dislipidemia/intolerancia lactosa/ERC,Aporta calcio y proteína.,todo_el_año
+53,Bebida deportiva isotónica,rehidratante,500.0,120.0,30.0,0.0,0.0,moderada,diabetes/obesidad,"Útil en ejercicio prolongado, no diaria.",todo_el_año
+52,Suero casero bajo azúcar,rehidratante,500.0,40.0,8.0,0.0,0.0,moderada,hipertensión/ERC,Solo cuando se indica rehidratación.,todo_el_año
+51,Suero oral comercial,rehidratante,500.0,100.0,25.0,0.0,0.0,moderada,diabetes/hipertensión/ERC por sodio,Útil en deshidratación; no como bebida diaria.,todo_el_año
+50,Bebida energética sin azúcar,energizante,355.0,10.0,0.0,160.0,0.0,moderada,hipertensión/ansiedad,Cuidado por cafeína alta.,todo_el_año
+49,Bebida energética regular,energizante,355.0,160.0,40.0,120.0,0.0,poco_saludable,hipertensión/ansiedad/embarazo,No recomendable para uso habitual.,todo_el_año
+48,Refresco sabor limón,refresco,355.0,150.0,38.0,0.0,0.0,poco_saludable,diabetes/obesidad,Evitar consumo frecuente.,todo_el_año
+47,Refresco sabor naranja,refresco,355.0,170.0,43.0,0.0,0.0,poco_saludable,diabetes/obesidad,Muy alto en azúcar.,todo_el_año
+46,Refresco de cola sin azúcar,refresco,355.0,0.0,0.0,35.0,0.0,moderada,gastritis/ansiedad,"No aporta azúcar, pero no sustituye agua.",todo_el_año
+45,Refresco de cola regular,refresco,355.0,150.0,39.0,35.0,0.0,poco_saludable,diabetes/obesidad/osteoporosis,Una de las bebidas más consumidas; evitar uso habitual.,todo_el_año
+44,Smoothie de yogurt con frutos rojos,licuado,300.0,180.0,16.0,0.0,0.0,saludable,intolerancia lactosa,Alto en proteína si usa yogurt griego.,todo_el_año
+43,Licuado de mamey,licuado,300.0,260.0,35.0,0.0,0.0,moderada,diabetes/obesidad,Energético.,primavera-verano
+42,Licuado de fresa sin azúcar,licuado,300.0,140.0,12.0,0.0,0.0,saludable,intolerancia lactosa,Buena colación.,primavera
+41,Licuado de plátano con leche,licuado,300.0,220.0,26.0,0.0,0.0,moderada,diabetes/obesidad/ERC por potasio,Útil si hay alto gasto energético.,todo_el_año
+40,Jugo de zanahoria,jugo,250.0,95.0,18.0,0.0,0.0,moderada,diabetes porción controlada,Preferir sin colar.,todo_el_año
+39,Jugo verde casero,jugo,250.0,60.0,8.0,0.0,0.0,saludable,enfermedad renal por potasio; gastritis si limón,No sustituye comida; mejor con fibra.,todo_el_año
+38,Jugo de naranja natural,jugo,250.0,110.0,22.0,0.0,0.0,moderada,diabetes/gastritis,Preferir fruta entera.,invierno
+37,Agua de coco natural,natural,250.0,45.0,6.0,0.0,0.0,saludable,enfermedad renal por potasio,Hidratante; contiene potasio.,todo_el_año
+36,Ponche navideño sin azúcar añadida,caliente,250.0,90.0,18.0,0.0,0.0,saludable,diabetes porción controlada,Versión más ligera.,invierno
+35,Ponche navideño tradicional,caliente,250.0,180.0,35.0,0.0,0.0,moderada,diabetes/obesidad,Tradicional; ajustar azúcar.,invierno
+34,Té de jengibre,infusion,240.0,5.0,0.0,0.0,0.0,saludable,anticoagulantes/gastritis sensible,Digestivo.,todo_el_año
+33,Té de canela,infusion,240.0,5.0,0.0,0.0,0.0,saludable,embarazo valorar dosis,Sin azúcar es buena opción.,todo_el_año
+32,Té negro sin azúcar,infusion,240.0,2.0,0.0,45.0,0.0,saludable,gastritis/ansiedad,Cafeína moderada.,todo_el_año
+31,Té verde sin azúcar,infusion,240.0,2.0,0.0,30.0,0.0,saludable,gastritis/ansiedad,Antioxidante con cafeína moderada.,todo_el_año
+30,Té de hierbabuena,infusion,240.0,2.0,0.0,0.0,0.0,saludable,reflujo si empeora,Común para digestión.,todo_el_año
+29,Té de manzanilla,infusion,240.0,2.0,0.0,0.0,0.0,saludable,alergia a asteráceas,Digestivo y sin cafeína.,todo_el_año
+28,Latte sin azúcar,cafe,355.0,150.0,12.0,120.0,0.0,moderada,intolerancia lactosa/gastritis,Elegir leche descremada o vegetal sin azúcar.,todo_el_año
+27,Capuchino comercial azucarado,cafe,355.0,220.0,28.0,120.0,0.0,poco_saludable,diabetes/obesidad/hipertensión,Frecuente en cafeterías; alta energía.,todo_el_año
+26,Café con leche sin azúcar,cafe,240.0,80.0,6.0,80.0,0.0,moderada,gastritis/intolerancia lactosa,Buen sustituto si no se endulza.,todo_el_año
+25,Café de olla con piloncillo,cafe,240.0,80.0,18.0,90.0,0.0,moderada,diabetes/gastritis/ansiedad,"Tradicional, pero azucarado.",todo_el_año
+24,Café americano sin azúcar,cafe,240.0,5.0,0.0,95.0,0.0,saludable,gastritis/ansiedad/hipertensión sensible,Evitar exceso de cafeína.,todo_el_año
+23,Chocolate caliente amargo sin azúcar,caliente,250.0,120.0,5.0,10.0,0.0,moderada,gastritis/ansiedad si sensible,Mejor que chocolate azucarado.,invierno
+22,Chocolate caliente tradicional,caliente,250.0,220.0,28.0,8.0,0.0,moderada,diabetes/gastritis,Reducir azúcar.,invierno
+21,Champurrado,atole,250.0,240.0,32.0,5.0,0.0,moderada,diabetes/obesidad/gastritis,Tradicional; alto en azúcar.,invierno
+20,Atole de avena sin azúcar,atole,250.0,140.0,4.0,0.0,0.0,saludable,enfermedad renal si usa leche,Mejor fibra y saciedad.,invierno
+19,Atole de maíz tradicional,atole,250.0,210.0,25.0,0.0,0.0,moderada,diabetes/obesidad,Energético; porción moderada.,invierno
+18,Agua de avena,agua_fresca,250.0,120.0,18.0,0.0,0.0,moderada,diabetes/obesidad,Puede ser saludable si se prepara sin azúcar.,todo_el_año
+17,Agua de mango sin azúcar,agua_fresca,250.0,95.0,22.0,0.0,0.0,moderada,diabetes porción pequeña,Naturalmente dulce; moderar.,primavera-verano
+16,Agua de mango endulzada,agua_fresca,250.0,150.0,32.0,0.0,0.0,moderada,diabetes/obesidad,Alta carga glucémica.,primavera-verano
+15,Agua de guayaba sin azúcar,agua_fresca,250.0,80.0,15.0,0.0,0.0,saludable,diabetes porción controlada,Rica en vitamina C.,otoño-invierno
+14,Agua de piña con hierbabuena,agua_fresca,250.0,70.0,15.0,0.0,0.0,saludable,diabetes/gastritis,Mejor sin azúcar.,todo_el_año
+13,Agua de melón sin azúcar,agua_fresca,250.0,55.0,12.0,0.0,0.0,saludable,diabetes porción controlada,Sin azúcar añadida.,primavera-verano
+12,Agua de sandía sin azúcar,agua_fresca,250.0,60.0,12.0,0.0,0.0,saludable,diabetes porción controlada,Naturalmente dulce.,primavera-verano
+11,Agua de pepino con limón,agua_fresca,250.0,15.0,2.0,0.0,0.0,saludable,gastritis si limón irrita,Refrescante y baja en kcal.,primavera-verano
+10,Agua de tamarindo sin azúcar,agua_fresca,250.0,35.0,5.0,0.0,0.0,moderada,gastritis si irrita,"Mejor sin azúcar, ajustar tolerancia gástrica.",todo_el_año
+9,Agua de tamarindo endulzada,agua_fresca,250.0,120.0,28.0,0.0,0.0,moderada,diabetes/gastritis,Ácida y azucarada.,todo_el_año
+8,Horchata ligera sin azúcar,agua_fresca,250.0,75.0,3.0,0.0,0.0,saludable,enfermedad renal si usa leche,Versión con menor carga glucémica.,todo_el_año
+7,Agua de horchata tradicional,agua_fresca,250.0,160.0,28.0,0.0,0.0,moderada,diabetes/obesidad,"Muy popular, alta en azúcar.",todo_el_año
+6,Agua de limón con chía,agua_fresca,250.0,45.0,2.0,0.0,0.0,saludable,gastritis si irrita,Aporta fibra de chía.,todo_el_año
+5,Agua de limón sin azúcar,agua_fresca,250.0,10.0,1.0,0.0,0.0,saludable,gastritis/reflujo si irrita,Útil para saborizar agua.,todo_el_año
+4,Agua de jamaica endulzada,agua_fresca,250.0,90.0,22.0,0.0,0.0,moderada,diabetes/obesidad/dislipidemia,Popular en comida corrida; reformular sin azúcar.,todo_el_año
+3,Agua de jamaica sin azúcar,agua_fresca,250.0,5.0,0.0,0.0,0.0,saludable,embarazo/diuréticos valorar,Antioxidante; evitar exceso de azúcar.,todo_el_año
+2,Agua mineral sin azúcar,agua,250.0,0.0,0.0,0.0,0.0,saludable,gastritis/reflujo si causa distensión,Puede sustituir refresco sin aportar azúcar.,todo_el_año
+1,Agua simple,agua,250.0,0.0,0.0,0.0,0.0,muy_saludable,ninguno,La bebida base recomendada para hidratación diaria.,todo_el_año

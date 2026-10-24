@@ -18,4 +18,7 @@ npm run validate:schema         # aplica la migración SQL en PGlite y comprueba
 
 **Pendiente:** pruebas de interfaz automatizadas (Playwright), escáner de cámara para el código de barras, PWA offline (service worker) y fotos en el almacenamiento de Supabase.
 
-**Datos:** catálogo Nutrion deduplicado (364 alimentos, 224 recetas, 100 bebidas, 37 condiciones). Algunas recetas del origen tienen nombres que no coinciden con sus ingredientes. Los ejercicios vienen de MuscleWiki: 481 en total, de los que se importan los datos factuales. La técnica se enlaza a la página de MuscleWiki.
+**Datos:** catálogo Nutrion deduplicado (364 alimentos, 224 recetas, 100 bebidas, 37 condiciones). Algunas recetas del origen tienen nombres que no coinciden con sus ingredientes. Los ejercicios vienen de MuscleWiki: se extrajeron 481 y quedaron 357 en la biblioteca, solo con datos factuales. La técnica se enlaza a la página de MuscleWiki.
+
+## Datos para Base44
+`data/base44/` contiene CSV listos para importar como entidades: Alimento (364), RecetaMexicana (224), BebidaMexicana (100), EnfermedadAlimento (6 945), EducacionAprende (21), EducacionMetaNutricional (480) y Ejercicio (357). Están deduplicados y sin correos. Los valores nutricionales vienen expresados por 100 g. Para regenerarlos: `python3 -I scripts/export_base44.py src/data data/base44`.
