@@ -4,7 +4,7 @@ Copia todo lo que está debajo de la línea en Base44.
 
 ---
 
-Construye **ATHLETIQ**, una app de fitness con tema oscuro (fondo #0b0c0e, superficies #181b1f, acento lima #c6f432, rosa de la mascota #f59bb8). Usa las fuentes Inter y Space Grotesk. Diseña primero para móvil con navegación inferior y, en escritorio, con barra lateral. La mascota es un ajolote musculoso. El código de referencia completo está en https://github.com/axelfoleymx/AXOLOFIT: replica su lógica **exactamente**. Los archivos `src/lib/calc/*.ts` son funciones puras con pruebas y puedes copiarlos tal cual.
+Construye **ATHLETIQ**, una app de fitness con tema oscuro (fondo #0b0c0e, superficies #181b1f, acento lima #c6f432, rosa de la mascota #f59bb8). Usa las fuentes Inter y Space Grotesk. Diseña primero para móvil con navegación inferior y, en escritorio, con barra lateral. La mascota es un ajolote musculoso: usa las imágenes de `public/mascot/` del repo (wave, lift, food, trophy, coach, rest, scale y logo) en el inicio, la carga, los estados vacíos y los logros, sin que tapen los datos. El código de referencia completo está en https://github.com/axelfoleymx/AXOLOFIT: replica su lógica **exactamente**. Los archivos `src/lib/calc/*.ts` son funciones puras con pruebas y puedes copiarlos tal cual.
 
 ## Regla principal
 Las calorías, macros, promedios, tendencias y recomendaciones de carga se calculan con **código determinista** (las funciones de `src/lib/calc`). La IA solo explica resultados ya calculados. Nunca inventes datos que falten: un nutriente desconocido se queda como `null` y no cuenta como 0.
@@ -20,7 +20,7 @@ Todas llevan el ID del usuario propietario (no uses el correo como clave). Cada 
 - **WorkoutPlan** (name, split, days[{id, name, focus, exercises[{exerciseId, order, warmupSets, config{repMin, repMax, sets, rirMin, rirMax, increment, restSec}}]}], active).
 - **WorkoutSession** (planId, dayId, name, date, startedAt, endedAt, status active/completed/discarded, fatigue, exercises[{exerciseId, exerciseName, config, sets[{kind warmup/working, weightKg, reps, rir, rpe, done, pain}], techniqueOk, painNote, substitutedFrom}]).
 - **PersonalRecord**, **CoachingRecommendation** (status pending/accepted/dismissed), **AchievementLog**.
-- **Catálogos de solo lectura**: Alimento, RecetaMexicana, BebidaMexicana y EnfermedadAlimento (los que ya existen). **Deduplícalos por id**: el export repite cada alimento varias veces. Normaliza los valores a 100 g con la fórmula valor × 100 / porción_estandar_g. Importa los CSV de `data/base44/` del repo: ya están deduplicados y expresados por 100 g. Para los ejercicios, usa `data/base44/Ejercicio.csv`, con 357 ejercicios y enlaza cada ejercicio a `https://musclewiki.com/es-es/exercise/{slug}`.
+- **Catálogos de solo lectura**: Alimento, RecetaMexicana, BebidaMexicana, EnfermedadAlimento, EducacionAprende, EducacionMetaNutricional y Ejercicio. Impórtalos desde los CSV de `data/base44/` del repo: ya están deduplicados, sin datos personales y con los nutrientes expresados **por 100 g**. Reemplaza con ellos los catálogos actuales, que repiten cada alimento varias veces. Cada ejercicio (357 en total) enlaza a `https://musclewiki.com/es-es/exercise/{slug}` para la técnica y el vídeo.
 
 ## Cálculos (ver `src/lib/calc`)
 - **TMB con Mifflin-St Jeor**: 10·kg + 6.25·cm − 5·edad, +5 para hombres y −161 para mujeres. Si el sexo no se indica, usa el promedio de ambas y muestra el rango. Usa Katch-McArdle solo si el % de grasa fue medido.
@@ -38,6 +38,11 @@ Todas llevan el ID del usuario propietario (no uses el correo como clave). Cada 
 
 ## Pantallas
 Onboarding de 8 pasos con consentimiento, Dashboard (hoy, 7 días y 30 días), Nutrición (Diario, Recetas, Planificador, Aprende), Entrenar (Rutina, Ejercicios, Historial), sesión en vivo a pantalla completa con temporizador de descanso, Progreso (Peso, Medidas y fotos, Estadísticas), Coach, Perfil (editar datos, objetivos, logros, integraciones, exportar JSON, eliminar cuenta) y Base científica.
+
+## Extras
+- Escáner de código de barras con BarcodeDetector cuando el navegador lo soporte (en Safari/iOS no existe: ahí se escribe el código). Busca el producto en Open Food Facts (`https://world.openfoodfacts.org/api/v2/product/{code}.json`), que no requiere clave.
+- Fotos de progreso privadas, solo visibles para su dueño.
+- Que la app funcione sin conexión cuando sea posible, mostrando el estado de sincronización.
 
 ## Coach con IA
 El coach usa herramientas que consultan los datos reales del usuario: perfil, nutrición del día, tendencia de peso, entrenamientos, recomendación por ejercicio, recuperación, sugerencias de comida, comparación de periodos y vista previa de rutina. No debe inventar entrenamientos ni consumos, debe decir cuando faltan datos y no puede diagnosticar.
