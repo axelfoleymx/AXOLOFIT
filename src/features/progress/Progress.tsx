@@ -5,6 +5,7 @@ import { useLiveQuery } from 'dexie-react-hooks'
 import { useUser } from '../../lib/app'
 import { useRows } from '../../lib/hooks'
 import { db, repo, uid } from '../../lib/db/db'
+import { supabase } from '../../lib/sync/supabase'
 import { addDays, classifyTrend, dayNum, movingAverage7, periodChange, trendSlope } from '../../lib/calc/weight'
 import { dayTotals } from '../../lib/calc/nutrition'
 import { bestE1RM } from '../../lib/calc/progression'
@@ -104,7 +105,7 @@ function WeightTab() {
 const MEASURES = [['waistCm', 'Cintura'], ['abdomenCm', 'Abdomen'], ['chestCm', 'Pecho'], ['armCm', 'Brazo'], ['hipCm', 'Cadera'], ['thighCm', 'Muslo']] as const
 
 function BodyTab() {
-  const { userId, today } = useUser()
+  const { userId, today, session } = useUser()
   const ms = useRows('measurements')
   const photos = useLiveQuery(() => db.photos.where('userId').equals(userId).toArray(), [userId])
   const [open, setOpen] = useState<BodyMeasurement | 'new' | null>(null)
@@ -115,8 +116,13 @@ function BodyTab() {
     if (!file.type.startsWith('image/')) return toast('Selecciona una imagen', 'err')
     if (file.size > 8_000_000) return toast('Imagen demasiado grande (máx. 8 MB)', 'err')
     const ts = new Date().toISOString()
-    await db.photos.add({ id: uid(), userId, createdAt: ts, updatedAt: ts, date: today, blob: file, note: null })
-    toast('Foto guardada de forma privada en este dispositivo')
+    const id = uid()
+    await db.photos.add({ id, userId, createdAt: ts, updatedAt: ts, date: today, blob: file, note: null })
+    if (session?.mode === 'supabase' && supabase) {
+      // Bucket privado: la política RLS solo permite la carpeta {userId}/ del propio usuario
+      const { error } = await supabase.storage.from('progress-photos').upload(`${userId}/${today}-${id}`, file, { contentType: file.type, upsert: false })
+      toast(error ? `Foto guardada en el dispositivo; no se pudo subir: ${error.message}` : 'Foto guardada y respaldada en tu almacenamiento privado', error ? 'err' : 'ok')
+    } else toast('Foto guardada de forma privada en este dispositivo')
   }
   return (
     <div className="space-y-4">
@@ -129,7 +135,7 @@ function BodyTab() {
         <p className="mt-2 text-[11px] text-muted">No estimamos tu % de grasa a partir de medidas o fotos: esos métodos tienen errores grandes. Si tienes una medición (DEXA, bioimpedancia), regístrala en tu perfil.</p>
       </Card>
       <Card title="Fotos de progreso (privadas)" action={<label className="btn-primary cursor-pointer px-3 py-1.5 text-xs"><Camera size={14} /> Añadir<input type="file" accept="image/*" className="hidden" onChange={(e) => e.target.files?.[0] && addPhoto(e.target.files[0])} /></label>}>
-        <Note>Las fotos se guardan solo en este dispositivo (IndexedDB) y no se incluyen en la exportación JSON ni se sincronizan. {''}Con Supabase configurado se usaría un bucket privado por usuario.</Note>
+        <Note>Las fotos se guardan solo en este dispositivo (IndexedDB) y no se incluyen en la exportación JSON. Con Supabase configurado también se respaldan en un bucket privado, al que solo tú tienes acceso.</Note>
         {!photos?.length ? <p className="mt-3 text-sm text-muted">Sin fotos. Son opcionales.</p> : (
           <div className="mt-3 grid grid-cols-3 gap-2 sm:grid-cols-5">
             {[...photos].sort((a, b) => b.date.localeCompare(a.date)).map((p) => <PhotoThumb key={p.id} blob={p.blob} date={p.date} onDelete={async () => { if (confirm('¿Eliminar foto definitivamente?')) await db.photos.delete(p.id) }} />)}

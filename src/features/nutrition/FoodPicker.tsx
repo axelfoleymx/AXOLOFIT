@@ -7,6 +7,7 @@ import { catalogToFood, loadCatalog, offByBarcode, offSearch, QUALITY_LABEL, ran
 import { isLikelyDuplicate, MEAL_LABEL, recipeNutrition, scaleNutrients, toGrams, validateGrams } from '../../lib/calc/nutrition'
 import type { FoodItem, FoodLogItem, MealType, Nutrients } from '../../lib/types'
 import { Badge, ErrorBox, Field, Note, NumberInput, Sheet, Tabs, fmt, toast } from '../../components/ui'
+import { BarcodeScanner, scannerSupported } from './BarcodeScanner'
 
 type Source = 'mx' | 'mine' | 'off' | 'usda'
 
@@ -29,6 +30,7 @@ export function FoodPicker({ onPick, pickLabel = 'Añadir', defaultMeal, showMea
   const [picked, setPicked] = useState<FoodItem | null>(null)
   const [custom, setCustom] = useState(false)
   const [barcode, setBarcode] = useState('')
+  const [scanning, setScanning] = useState(false)
   const customFoods = useRows('customFoods')
   const favorites = useRows('favorites')
   const recipes = useRows('recipes')
@@ -68,13 +70,14 @@ export function FoodPicker({ onPick, pickLabel = 'Añadir', defaultMeal, showMea
     return () => { clearTimeout(t); ctrl.abort() }
   }, [q, src, mine])
 
-  async function lookupBarcode() {
+  async function lookupBarcode(raw?: string) {
     setError(null)
-    const local = (customFoods ?? []).find((c) => c.barcode === barcode.trim())
+    const code = (raw ?? barcode).trim()
+    const local = (customFoods ?? []).find((c) => c.barcode === code)
     if (local) return setPicked(local as unknown as FoodItem)
     setLoading(true)
     try {
-      const f = await offByBarcode(barcode.trim())
+      const f = await offByBarcode(code)
       if (!f) setError('Producto no encontrado en Open Food Facts. Puedes crearlo manualmente con los datos de la etiqueta.')
       else setPicked(f)
     } catch (e) {
@@ -97,9 +100,11 @@ export function FoodPicker({ onPick, pickLabel = 'Añadir', defaultMeal, showMea
       {src === 'off' && (
         <div className="flex gap-2">
           <div className="relative flex-1"><Barcode size={16} className="absolute top-1/2 left-3 -translate-y-1/2 text-muted" /><input inputMode="numeric" className="input pl-9" placeholder="Código de barras" value={barcode} onChange={(e) => setBarcode(e.target.value.replace(/\D/g, ''))} aria-label="Código de barras" /></div>
-          <button className="btn-ghost" onClick={lookupBarcode} disabled={barcode.length < 6}>Buscar</button>
+          <button className="btn-ghost" onClick={() => lookupBarcode()} disabled={barcode.length < 6}>Buscar</button>
+          {scannerSupported() && <button className="btn-primary" onClick={() => setScanning(true)} aria-label="Escanear con la cámara"><Barcode size={16} /></button>}
         </div>
       )}
+      {src === 'off' && scanning && <BarcodeScanner onClose={() => setScanning(false)} onCode={(c) => { setScanning(false); setBarcode(c); void lookupBarcode(c) }} />}
       {src === 'off' && <p className="text-[11px] text-muted">Datos de Open Food Facts (licencia ODbL), aportados por la comunidad. La cobertura de productos mexicanos es parcial y puede contener errores.</p>}
       {src === 'usda' && <p className="text-[11px] text-muted">USDA FoodData Central (EE. UU.). Requiere USDA_API_KEY configurada en el servidor.</p>}
       {error && <ErrorBox>{error}</ErrorBox>}

@@ -29,3 +29,5 @@ dist-ssr
 # CSV originales con correos de usuarios de Base44: no se publican
 data-src/
 .claude/
+test-results/
+playwright-report/
