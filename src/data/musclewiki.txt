@@ -1,0 +1,357 @@
+barbell-bench-press~Press de banca con barra~0~2~P~c~pe~tr
+push-up~Flexiones~1~0~P~c~pe~hf,tr
+dumbbell-incline-bench-press~Press de banca inclinado con mancuernas~2~0~P~c~pe~hf,tr
+machine-pec-fly~Máquina de apertura de pecho~3~1~P~i~pe~
+barbell-incline-bench-press~Press inclinado con barra~0~2~P~c~pe~hl,tr
+barbell-floor-press~Press en el suelo con barra~0~3~P~c~tr~pe
+barbell-hooklying-bench-press~Press de banca con barra en posición hook-lying~0~3~P~c~pe~tr
+dumbbell-bench-press~Press de banca con mancuernas~2~1~P~c~pe~tr
+dumbbell-chest-fly~Aperturas con mancuernas~2~1~P~i~pe~
+box-dips~Fondos en caja~1~2~P~c~pe~tr
+incline-push-up~Flexión inclinada~1~0~P~c~pe~tr
+decline-push-up~Flexión declinada~1~0~P~c~pe~tr
+neutral-chest-press~Press de pecho con agarre neutro~3~1~P~c~pe~tr
+machine-assisted-parallel-bar-dips~Fondos en paralelas asistidos en máquina~3~1~P~c~pe~tr
+machine-chest-press~Press de pecho en máquina~3~1~P~c~pe~tr
+cable-chest-press~Press de pecho en polea~4~1~P~c~pe~hf,tr
+cable-pec-fly~Aperturas en polea~4~0~P~i~pe~
+cable-incline-chest-fly~Aperturas inclinadas en polea~4~0~P~i~pe~
+cable-bench-chest-fly~Aperturas en banco con polea~4~1~P~i~pe~
+kettlebell-chest-press-single~Press de pecho con pesa rusa (unilateral)~5~0~P~c~pe~tr
+kettlebell-single-arm-press~Press con kettlebell a un brazo~5~0~P~c~pe~tr
+kettlebell-walkover-pushup~Flexión con paso sobre la pesa rusa~5~3~P~c~pe~tr
+band-pushup~Flexiones con banda de resistencia~6~2~P~c~pe~tr
+band-chest-fly~Aperturas de pecho con banda~6~0~P~i~pe~
+band-chest-press~Press de pecho con banda elástica~6~1~P~c~pe~tr
+smith-machine-guillotine-bench-press~Press guillotina en máquina Smith~7~2~P~c~pe~tr
+smith-machine-bench-press~Press de banca en máquina Smith~7~1~P~c~pe~tr
+smith-machine-incline-bench-press~Press inclinado en máquina Smith~7~0~P~c~pe~hl,tr
+smith-machine-pushup~Flexión en máquina Smith~7~0~P~c~pe~
+plate-deficit-pushup~Flexión en déficit con discos~8~3~P~c~pe~tr
+weighted-knee-push-ups~Flexiones de rodilla con peso~8~0~P~c~pe~tr
+weighted-push-ups~Flexiones con peso~8~2~P~c~pe~hf,tr
+trx-pec-fly~Aperturas de pecho en TRX~9~2~P~i~pe~
+trx-pushup~Flexión en TRX~9~0~P~c~hf,pe~tr
+dumbbell-guillotine-incline-bench-press~Press inclinado guillotina con mancuernas~2~3~P~c~pe~tr
+barbell-high-incline-bench-press~Press con barra en inclinación alta~0~2~P~c~pe~hl,tr
+dumbbell-incline-chest-fly~Aperturas en banco inclinado con mancuernas~2~0~P~i~pe~
+cable-incline-bench-press~Press inclinado con polea~4~0~P~c~pe~tr
+cable-single-arm-incline-bench-press~Press inclinado en polea a un brazo~4~0~P~c~pe~tr
+cable-standing-single-arm-incline-chest-press~Press inclinado de pie con polea a un brazo~4~2~P~c~pe~tr,hf
+kettlebell-incline-bench-press~Press inclinado con kettlebells~5~0~P~c~pe~hl,tr
+chin-ups~Dominadas supinas~1~2~P~c~do~bi
+cable-lat-prayer~Oración en polea para dorsales~4~3~P~i~do~
+dumbbell-row-unilateral~Remo con mancuerna unilateral~2~1~P~c~em,do~bi
+pull-ups~Dominadas~1~2~P~c~do~bi,em
+barbell-bent-over-row~Remo inclinado con barra~0~2~P~c~do~bi
+barbell-long-landmine-row~Remo en landmine (agarre largo)~0~3~P~c~do~bi
+barbell-meadows-row~Remo Meadows con barra~0~2~P~c~do~bi
+barbell-pronated-pendlay-row~Remo Pendlay con barra~0~3~P~c~do~bi
+dumbbell-row-bilateral~Remo bilateral con mancuernas~2~0~P~c~em,do~bi
+dumbbell-pullover~Pullover con mancuerna~2~2~P~i~do~
+dumbbell-alternating-pendlay-row~Remo Pendlay alterno con mancuernas~2~3~P~c~do~bi
+inverted-row~Remo invertido~1~0~P~c~em,do~bi
+bodyweight-assisted-chin-up~Dominadas supinas asistidas~1~1~P~c~bi,do~
+machine-pulldown~Jalón en máquina~3~1~P~c~do~bi
+machine-seated-cable-row~Remo sentado en polea~3~1~P~c~do~bi
+underhand-pulldown~Jalón con agarre supino~3~1~P~c~do~bi
+narrow-pulldown~Jalón con agarre estrecho~3~1~P~c~do~bi,em
+neutral-pulldown~Jalón con agarre neutro~3~1~P~c~do~bi
+cable-bent-over-bar-pullover~Pullover inclinado con barra en polea~4~0~P~i~do~
+cable-archer-row~Remo arquero con polea~4~2~P~c~do~hp
+cable-row-bar-standing-row~Remo de pie en polea con barra~4~1~P~c~do~bi
+cable-single-arm-underhand-grip-row~Remo a un brazo en polea con agarre supino~4~1~P~c~do~bi
+cable-single-arm-neutral-grip-row~Remo unilateral en polea (agarre neutro)~4~1~P~c~do~bi
+cable-supinating-row~Remo supinador en polea~4~0~P~c~do~hp
+kettlebell-row-single~Remo con pesa rusa a un brazo~5~0~P~c~em,do~bi
+kettlebell-gorilla-row~Remo gorila con pesa rusa~5~2~P~c~do~bi
+band-row~Remo con banda elástica~6~1~P~c~do~bi
+band-pullover~Pullover con banda~6~1~P~i~do~
+band-kneeling-single-arm-pulldown~Jalón unilateral con banda (arrodillado)~6~1~P~c~do~bi
+smith-machine-assisted-pullup~Dominada asistida en máquina Smith~7~1~P~c~do~em
+smith-machine-inverted-row~Remo invertido en máquina Smith~7~0~P~c~em,do~bi
+smith-machine-overhand-row~Remo prono en máquina Smith~7~0~P~c~do~bi
+smith-machine-underhand-row~Remo supino en máquina Smith~7~1~P~c~do~bi
+plate-weighted-inverted-row~Remo invertido con disco~8~2~P~c~em,do~bi
+weighted-pull-ups~Dominadas con peso~8~3~P~c~do~bi,em
+trx-single-arm-row~Remo a un brazo en TRX~9~0~P~c~do~bi
+trx-rotating-row~Remo con rotación en TRX~9~0~P~c~do~bi
+bodyweight-overhand-inverted-row~Remo invertido prono~1~0~P~c~em,do~bi
+bodyweight-standing-inverted-row~Remo invertido de pie~1~1~P~c~em,do~bi
+barbell-landmine-row~Remo con barra en landmine~0~2~P~c~em,do~bi
+machine-plate-loaded-low-row~Remo bajo en máquina de discos~3~1~P~c~hp~em
+machine-overhand-row~Remo en máquina con agarre prono~3~1~P~c~hp~em
+barbell-deadlift~Peso muerto con barra~0~2~P~c~gl,is,lu~em
+barbell-high-pull~Jalón alto con barra~0~2~P~c~em,tp~gl
+dumbbell-rear-delt-row~Remo con mancuerna para deltoides posteriores~2~2~P~c~hp~em
+band-pull-apart~Separación con banda elástica~6~1~P~i~hp~em
+band-high-face-pull~Face pull alto con banda~6~1~P~i~hp~em
+band-rear-delt-fly~Pájaros con banda~6~2~P~i~hp~em
+plate-rear-delt-fly~Pájaros invertidos con disco~8~0~P~i~hp~em
+trx-rear-delt-fly~Pájaros en TRX~9~2~P~i~hp~em
+trx-w-raise~Elevación en W en TRX~9~0~P~i~hp~em
+trx-y-raise~Elevación en Y en TRX~9~0~P~i~hl,hf~tp
+machine-face-pulls~Face pull en polea con cuerda~4~1~P~i~hp~hl
+band-face-pull~Face pull con banda~6~1~P~i~hp~hl
+machine-reverse-fly~Pájaros en máquina (contractor inverso)~3~1~P~i~hp~
+landmine-rear-delt-row~Remo en landmine para deltoides posteriores~0~2~P~c~hp~
+dumbbell-rear-delt-fly~Pájaros con mancuernas~2~0~P~i~hp~
+dumbbell-seated-rear-delt-fly~Pájaros sentado con mancuernas~2~1~P~i~hp~
+dumbbell-laying-reverse-fly~Pájaros tumbado con mancuernas~2~1~P~i~hp~
+machine-rear-deltoid-row~Remo para deltoides posteriores en máquina~3~1~P~i~hp~
+cable-high-single-arm-rear-delt-fly~Pájaro unilateral en polea alta~4~0~P~i~hp~
+cable-single-arm-rear-delt-row~Remo unilateral de deltoides posterior en polea~4~3~P~c~hp~em
+kettlebell-rear-delt-row~Remo con pesa rusa para deltoides posteriores~5~1~P~c~hp~bi
+machine-45-degree-back-extension~Hiperextensiones a 45°~3~0~P~i~lu~gl,is
+supermans~Supermans~1~0~P~i~lu~
+machine-back-extension~Extensión de espalda en máquina~3~1~P~i~lu~
+machine-reverse-hyperextension~Hiperextensión inversa en máquina~3~1~P~c~lu,gl,is~
+dumbbell-superman~Superman con mancuernas~2~1~P~i~lu~
+barbell-low-bar-good-morning~Buenos días con barra baja~0~3~P~c~is~gl,lu
+good-mornings~Buenos días~1~1~P~c~gl,is~lu
+dumbbell-goblet-good-morning~Buenos días con mancuerna en copa~2~0~P~c~gl,is~lu
+kettlebell-goblet-good-morning~Buenos días con pesa rusa en copa~5~1~P~c~gl,is~lu
+band-good-morning~Buenos días con banda~6~1~P~c~gl,is~lu
+barbell-sumo-deadlift~Peso muerto sumo con barra~0~2~P~c~gl~cu,is
+barbell-romanian-deadlift~Peso muerto rumano con barra~0~2~P~c~gl,is~lu
+dumbbell-romanian-deadlift~Peso muerto rumano con mancuernas~2~0~P~c~gl,is~lu
+single-legged-romanian-deadlifts~Peso muerto rumano a una pierna~1~0~P~c~gl,is~lu
+cable-bar-romanian-deadlift~Peso muerto rumano con barra en polea~4~0~P~c~gl,is~lu
+cable-single-leg-deadlift~Peso muerto a una pierna con polea~4~3~P~c~gl,is~lu
+kettlebell-deadlift-single~Peso muerto con pesa rusa~5~0~P~c~gl,is~lu
+kettlebell-swing~Swing con pesa rusa~5~2~P~c~gl,is~lu
+kettlebell-single-leg-deadlift~Peso muerto a una pierna con pesa rusa~5~3~P~c~gl,is~lu
+band-romanian-deadlift~Peso muerto rumano con banda~6~1~P~c~gl,is~lu
+band-pullthrough~Pull-through con banda~6~0~P~c~gl,is~lu
+cable-pull-through~Pull-through en polea~4~0~P~c~gl,is~lu
+smith-machine-romanian-deadlift~Peso muerto rumano en máquina Smith~7~0~P~c~is~gl
+smith-machine-sumo-romanian-deadlift~Peso muerto rumano sumo en máquina Smith~7~2~P~c~gl~is
+barbell-stiff-leg-deadlifts~Peso muerto piernas rígidas con barra~0~2~P~c~gl,is~lu
+barbell-staggered-deadlift~Peso muerto con pies escalonados~0~3~P~c~gl,is~lu
+barbell-suitcase-deadlift~Peso muerto maleta con barra~0~3~P~c~gl,is,ob~lu
+plate-deadlift~Peso muerto con disco~8~2~P~c~gl,is~lu
+barbell-shrug~Encogimiento de hombros con barra~0~0~P~i~tp~
+barbell-silverback-shrug~Encogimiento Silverback con barra~0~2~P~i~tp~em
+dumbbell-shrug~Encogimiento de hombros con mancuernas~2~1~P~i~tp~
+dumbbell-seated-shrug~Encogimiento sentado con mancuernas~2~1~P~i~tp~
+cable-30-degree-shrug~Encogimiento en polea a 30°~4~0~P~i~tp~
+machine-seated-shrug~Encogimiento en máquina sentado~3~0~P~i~tp~
+machine-standing-shrug~Encogimiento en máquina de pie~3~1~P~i~tp~
+kettlebell-shrug-single~Encogimiento con pesa rusa a un brazo~5~1~P~i~tp~
+band-shrug~Encogimientos con banda~6~1~P~i~tp~
+barbell-upright-row~Remo al mentón con barra~0~3~P~c~hl,hf~tp
+cable-upright-row~Remo al mentón en polea~4~3~P~c~hl,hf~tp
+kettlebell-upright-row~Remo al mentón con kettlebell~5~1~P~c~hl,tp~hf
+smith-machine-upright-row~Remo al mentón en máquina Smith~7~2~P~c~hl,hf~tp
+band-upright-row~Remo vertical con banda~6~3~P~c~hl,hf~tp
+barbell-overhead-press~Press militar con barra~0~2~P~c~hf,hl~tr
+barbell-z-press~Z press con barra~0~3~P~c~hf,hl~tr
+barbell-behind-the-neck-seated-overhead-press~Press tras nuca sentado con barra~0~3~P~c~hf,hl~tr
+dumbbell-seated-overhead-press~Press militar sentado con mancuernas~2~1~P~c~hf,hl~tr
+cable-overhead-press~Press de hombros en polea~4~1~P~c~hf,hl~tr
+kettlebell-seated-overhead-press~Press militar sentado con pesa rusa~5~0~P~c~hf,hl~tr
+band-overhead-press~Press militar con banda~6~1~P~c~hf,hl~tr
+smith-machine-seated-overhead-press~Press militar sentado en máquina Smith~7~0~P~c~hf,hl~tr
+machine-neutral-overhead-press~Press de hombros neutro en máquina~3~1~P~c~hf~tr
+machine-overhand-overhead-press~Press de hombros prono en máquina~3~1~P~c~hf~tr
+machine-front-military-press~Press militar frontal en máquina de discos~3~1~P~c~hf~tr
+elevated-pike-press~Flexión pike con pies elevados~1~2~P~c~hf,hl~tr,tp
+bodyweight-pike-press~Press pike con peso corporal~1~2~P~c~hf,hl~tr
+dumbbell-lateral-raise~Elevaciones laterales con mancuernas~2~1~P~i~hl~
+cable-low-single-arm-lateral-raise~Elevación lateral unilateral en polea baja~4~1~P~i~hl~
+cable-low-bilateral-lateral-raise~Elevación lateral bilateral en polea baja~4~1~P~i~hl~
+laying-lateral-raise~Elevaciones laterales acostado~2~0~P~i~hl~
+dumbbell-bayesian-lateral-raise~Elevaciones laterales Bayesian con mancuernas~2~0~P~i~hl~
+kettlebell-single-arm-lateral-raise~Elevación lateral con pesa rusa a un brazo~5~0~P~i~hl~
+band-low-lateral-raise~Elevación lateral baja con banda~6~2~P~i~hl~
+band-mid-lateral-raise~Elevación lateral media con banda~6~0~P~i~hl~
+machine-standing-lateral-raise~Elevación lateral de pie en máquina~3~1~P~i~hl~
+plate-full-lateral-raise~Elevaciones laterales completas con disco~8~2~P~i~hl~
+barbell-front-raise~Elevación frontal con barra~0~2~P~i~hf~
+dumbbell-front-raise~Elevaciones frontales con mancuernas~2~1~P~i~hf~
+kettlebell-front-raise~Elevación frontal con pesa rusa~5~1~P~i~hf~
+band-front-raise~Elevación frontal con banda~6~1~P~i~hf~
+plate-front-raise~Elevación frontal con disco~8~1~P~i~hf~
+plate-halo~Halo con disco~8~1~P~c~hf,hl~
+landmine-snatch~Arrancada con landmine~0~2~P~c~gl,hl~lu
+barbell-curl~Curl con barra~0~2~P~i~bi~
+barbell-reverse-curl~Curl invertido con barra~0~3~P~i~bi~an
+dumbbell-preacher-curl~Curl predicador con mancuerna~2~1~P~i~bi~
+dumbbell-incline-curl~Curl inclinado con mancuernas~2~1~P~i~bi~
+dumbbell-curl~Curl con mancuernas~2~1~P~i~bi~
+dumbbell-hammer-curl~Curl martillo con mancuernas~2~1~P~i~bi~an
+dumbbell-reverse-curl~Curl inverso con mancuernas~2~1~P~i~bi~an
+bodyweight-inverted-curl~Curl invertido con peso corporal~1~1~P~i~bi~
+cable-single-arm-bayesian-curl~Curl Bayesian unilateral en polea~4~0~P~i~bi~
+cable-single-arm-hammer-curl~Curl martillo en polea a un brazo~4~0~P~i~bi~an
+cable-twisting-curl~Curl con giro en polea~4~3~P~i~bi~
+cable-single-arm-reverse-curl~Curl inverso en polea a un brazo~4~0~P~i~bi~an
+cable-bar-reverse-grip-curl~Curl con agarre inverso en polea~4~1~P~i~an~bi
+kettlebell-goblet-curl~Curl en copa con pesa rusa~5~1~P~i~bi~
+kettlebell-single-arm-curl~Curl unilateral con kettlebell~5~0~P~i~bi~
+kettlebell-preacher-curl~Curl predicador con pesa rusa~5~2~P~i~bi~
+kettlebell-concentration-curl~Curl concentrado con pesa rusa~5~2~P~i~bi~
+band-bayesian-curl~Curl Bayesian con banda~6~0~P~i~bi~
+band-reverse-curl~Curl invertido con banda~6~1~P~i~bi~an
+smith-machine-drag-curl~Curl arrastrado en máquina Smith~7~0~P~i~bi~
+plate-bicep-curl~Curl de bíceps con disco~8~1~P~i~bi~
+trx-curl~Curl de bíceps en TRX~9~0~P~i~bi~
+trx-hammer-curl~Curl martillo en TRX~9~0~P~i~bi~
+cable-rope-pushdown~Extensión de tríceps en polea con cuerda~4~1~P~i~tr~
+machine-cable-v-bar-push-downs~Extensión de tríceps en polea con barra V~3~0~P~i~tr~
+cable-cross-pushdown~Extensión de tríceps en polea cruzada~4~3~P~i~tr~
+cable-rope-skullcrusher~Press francés en polea con cuerda~4~0~P~i~tr~
+cable-rope-overhead-tricep-extension~Extensión de tríceps sobre la cabeza en polea~4~0~P~i~tr~
+barbell-close-grip-bench-press~Press de banca con agarre cerrado~0~2~P~c~tr~pe
+smith-machine-close-grip-bench-press~Press cerrado en máquina Smith~7~0~P~c~tr~pe
+dumbbell-skullcrusher~Press francés con mancuernas~2~0~P~i~tr~
+dumbbell-decline-skullcrusher~Press francés declinado con mancuernas~2~0~P~i~tr~
+dumbbell-seated-overhead-tricep-extension~Extensión de tríceps sobre la cabeza con mancuerna~2~2~P~i~tr~
+barbell-skullcrusher~Press francés con barra~0~2~P~i~tr~
+barbell-overhead-tricep-extension~Extensión de tríceps sobre la cabeza con barra~0~3~P~i~tr~
+bench-dips~Fondos en banco~1~1~P~c~tr~
+diamond-push-ups~Flexiones diamante~1~0~P~c~tr~pe
+kettlebell-decline-skull-crusher~Press francés declinado con pesa rusa~5~3~P~i~tr~
+band-skullcrusher~Extensión de tríceps con banda~6~3~P~i~tr~
+band-overhead-tricep-extension~Extensión de tríceps sobre la cabeza con banda~6~3~P~i~tr~
+band-rapunzel-pushdown~Extensión de tríceps con banda (Rapunzel)~6~0~P~i~tr~
+smith-machine-skullcrusher~Press francés en máquina Smith~7~2~P~i~tr~
+plate-overhead-tricep-extension~Extensión de tríceps sobre la cabeza con disco~8~1~P~i~tr~
+trx-skullcrusher~Extensión de tríceps en TRX~9~0~P~i~tr~
+barbell-wrist-curl~Curl de muñeca con barra~0~1~P~i~an~
+barbell-behind-the-back-wrist-curl~Curl de muñeca tras la espalda con barra~0~2~P~i~an~
+dumbbell-wrist-extension~Extensión de muñeca con mancuerna~2~1~P~i~an~
+dumbbell-wrist-curl~Curl de muñeca con mancuerna~2~1~P~i~an~
+cable-wrist-extension~Extensión de muñeca en polea~4~0~P~i~an~
+cable-wrist-curl~Curl de muñeca en polea~4~0~P~i~an~
+kettlebell-wrist-curl~Curl de muñeca con pesa rusa~5~1~P~i~an~
+kettlebell-farmers-carry~Paseo del granjero con kettlebells~5~0~H~c~an~tp,ab
+barbell-squat~Sentadilla con barra~0~2~P~c~cu~gl
+barbell-high-bar-squat~Sentadilla con barra alta~0~0~P~c~cu,gl~
+barbell-low-bar-squat~Sentadilla con barra baja~0~2~P~c~gl,cu~lu
+barbell-front-squat-olympic~Sentadilla frontal con barra~0~3~P~c~cu,gl~ab
+barbell-step-up~Subida al cajón con barra~0~0~P~c~cu~gl
+barbell-cossack-squat~Sentadilla cosaca con barra~0~2~P~c~gl,cu~ad
+barbell-curtsy-lunge~Zancada de reverencia con barra~0~3~P~c~gl,cu~
+dumbbell-goblet-squat~Sentadilla goblet con mancuerna~2~1~P~c~cu,gl~
+dumbbell-bulgarian-split-squat~Sentadilla búlgara con mancuernas~2~2~P~c~cu,gl~
+dumbbell-goblet-lateral-lunge~Zancada lateral goblet con mancuerna~2~3~P~c~gl,cu~ad
+dumbbell-cossack-squat~Sentadilla cosaca con mancuernas~2~2~P~c~gl,cu~ad
+dumbbell-goblet-curtsy-lunge~Zancada cruzada goblet con mancuerna~2~3~P~c~gl,cu~
+bodyweight-squat~Sentadilla con peso corporal~1~1~P~c~cu,gl~ad
+forward-lunges~Zancadas hacia adelante~1~1~P~c~cu,gl~
+bodyweight-reverse-lunge~Zancada inversa con peso corporal~1~1~P~c~gl,cu~
+bulgarian-split-squat~Sentadilla búlgara~1~0~P~c~cu,gl~
+jump-squats~Sentadillas con salto~1~0~P~c~cu,gl~
+curtsy-lunge~Zancada de reverencia~1~2~P~c~gl,cu~
+bodyweight-cossack-squat~Sentadilla cosaca con peso corporal~1~0~P~c~gl,cu~ad
+machine-leg-press~Prensa de piernas~3~1~P~c~cu,gl~
+vertical-leg-press~Prensa de piernas vertical~3~1~P~c~gl~cu
+machine-belt-squat~Sentadilla con cinturón en máquina~3~1~P~c~cu,gl~
+machine-leg-extension~Extensión de piernas en máquina~3~1~P~i~cu~
+machine-sissy-squat~Sissy squat en máquina~3~2~P~c~cu~
+machine-goblet-sissy-squat~Sissy squat goblet en máquina~3~2~P~c~cu~gl
+cable-split-squat~Sentadilla dividida en polea~4~3~P~c~gl,cu~
+cable-goblet-squat~Sentadilla goblet en polea~4~1~P~c~gl,cu~lu
+cable-zercher-squat~Sentadilla Zercher en polea~4~2~P~c~gl,cu~lu
+cable-standing-leg-extension~Extensión de pierna de pie en polea~4~3~P~i~cu~
+kettlebell-goblet-squat~Sentadilla goblet con pesa rusa~5~1~P~c~cu,gl~lu
+kettlebell-single-arm-forward-lunge~Zancada con kettlebell a un brazo~5~0~P~c~gl,cu~
+kettlebell-step-up~Subida al cajón con pesa rusa~5~0~P~c~gl,cu~
+kettlebell-lateral-lunge-single~Zancada lateral con pesa rusa~5~2~P~c~gl,cu~ad
+kettlebell-cossack-squat~Sentadilla cosaca con kettlebell~5~2~P~c~gl,cu~ad
+kettlebell-alternating-curtsy-lunge~Zancada de reverencia alterna con kettlebell~5~2~P~c~gl~cu
+band-squat~Sentadilla con banda~6~1~P~c~gl,cu~
+band-spanish-squat~Sentadilla española con banda~6~3~P~c~cu~gl
+band-leg-extension~Extensión de piernas con banda~6~0~P~i~cu~
+smith-machine-squat~Sentadilla en máquina Smith~7~0~P~c~cu~gl
+smith-machine-leg-press~Prensa de piernas en máquina Smith~7~2~P~c~cu~gl
+smith-machine-split-squat~Sentadilla dividida en máquina Smith~7~2~P~c~cu~gl
+smith-machine-sissy-squat~Sissy squat en máquina Smith~7~3~P~i~cu~
+plate-squat~Sentadilla con disco~8~1~P~c~gl,cu~
+trx-reverse-lunge~Zancada inversa en TRX~9~1~P~c~gl,cu~
+trx-lateral-lunge~Zancada lateral en TRX~9~1~P~c~gl,cu~
+glute-ham-raise~Elevación glúteo-femoral (GHR)~3~2~P~i~is~gl
+machine-hamstring-curl~Curl femoral tumbado en máquina~3~1~P~i~is~
+machine-seated-leg-curl~Curl femoral sentado en máquina~3~1~P~i~is~
+dumbbell-leg-curl~Curl femoral con mancuerna~2~0~P~i~is~
+nordic-hamstring-curl~Curl nórdico~1~2~P~i~is~
+cable-hamstring-curl~Curl femoral en polea~4~3~P~i~is~
+band-leg-curl~Curl femoral con banda~6~0~P~i~is~
+trx-hamstring-curl~Curl femoral en TRX~9~0~P~i~is~
+barbell-hip-thrust~Hip thrust con barra~0~0~P~c~gl~is
+dumbbell-hip-thrust~Hip thrust con mancuerna~2~1~P~c~gl~is
+kettlebell-hip-thrust~Hip thrust con pesa rusa~5~1~P~c~gl~is
+smith-machine-single-leg-hip-thrust~Hip thrust a una pierna en máquina Smith~7~2~P~c~gl~is
+glute-bridge~Puente de glúteos~1~1~P~c~gl~is
+dumbbell-glute-bridge~Puente de glúteos con mancuerna~2~1~P~c~gl~is
+trx-glute-bridge~Puente de glúteos en TRX~9~0~P~c~gl~is
+gluteator~Máquina de glúteo (gluteator)~3~1~P~i~gl~
+cable-standing-straight-leg-glute-glute-kickback~Patada de glúteo en polea con pierna recta~4~0~P~i~gl~
+band-glute-kickback~Patada de glúteo con banda~6~0~P~i~gl~
+smith-machine-glute-kickback~Patada de glúteo en máquina Smith~7~2~P~i~gl~
+cable-standing-hip-abduction~Abducción de cadera de pie en polea~4~0~P~i~gl~
+machine-hip-abduction~Abducción de cadera en máquina~3~1~P~i~gl~
+machine-hip-and-glute-abduction~Abducción de cadera y glúteo en máquina~3~1~P~i~gl~
+dumbbell-standing-hip-abduction~Abducción de cadera de pie con mancuerna~2~0~P~i~gl~
+bodyweight-hip-abduction~Abducción de cadera con peso corporal~1~1~P~i~gl~
+cable-quadruped-hip-abduction~Abducción de cadera en cuadrupedia con polea~4~0~P~i~gl~
+band-hip-abduction~Abducción de cadera con banda~6~0~P~i~gl~
+mini-band-clamshell~Clamshell con minibanda~6~1~P~i~gl~
+side-walks-resisted~Caminata lateral con banda~6~0~P~i~gl~
+machine-hip-adduction~Aducción de cadera en máquina~3~1~P~i~ad~
+cable-standing-hip-adduction~Aducción de cadera de pie en polea~4~0~P~i~ad~
+band-hip-adduction~Aducción de cadera con banda~6~2~P~i~ad~
+machine-standing-calf-raises~Elevación de gemelos de pie en máquina~3~1~P~i~ge~
+machine-seated-calf-raises~Elevación de gemelos sentado en máquina~3~1~P~i~ge~
+machine-horizontal-leg-press-calf-raise~Elevación de gemelos en prensa horizontal~3~0~P~i~ge~
+barbell-calf-raises~Elevación de gemelos con barra~0~2~P~i~ge~
+barbell-seated-calf-raise~Elevación de gemelos sentado con barra~0~0~P~i~ge~
+dumbbell-calf-raise~Elevación de gemelos con mancuernas~2~1~P~i~ge~
+dumbbell-seated-calf-raise~Elevación de gemelos sentado con mancuernas~2~1~P~i~ge~
+dumbbell-single-leg-calf-raise~Elevación de gemelo a una pierna con mancuerna~2~1~P~i~ge~
+calf-raises~Elevación de gemelos~1~1~P~i~ge~
+bodyweight-donkey-calf-raise~Elevación de gemelos tipo burro~1~1~P~i~ge~
+cable-bar-calve-raise~Elevación de gemelos con barra en polea~4~1~P~i~ge~
+kettlebell-single-leg-calf-raise~Elevación de gemelo a una pierna con pesa rusa~5~0~P~i~ge~
+smith-machine-calf-raise~Elevación de gemelos en máquina Smith~7~1~P~i~ge~
+smith-machine-seated-calf-raise~Elevación de gemelos sentado en máquina Smith~7~1~P~i~ge~
+band-calf-raise~Elevación de gemelos con banda~6~1~P~i~ge~
+hand-plank~Plancha alta~1~1~H~i~ab~
+long-lever-plank~Plancha de palanca larga~1~3~H~i~ab~
+weighted-forearm-plank~Plancha en antebrazos con peso~8~2~H~i~ab~
+crunches~Abdominales (crunch)~1~1~P~i~ab~
+laying-leg-raises~Elevaciones de piernas tumbado~1~1~P~i~ab~
+hanging-knee-raises~Elevaciones de rodillas colgado~1~0~P~i~ab~
+barbell-situp~Abdominal con barra~0~2~P~i~ab~
+barbell-roll-outs~Rueda abdominal con barra (rollout)~0~3~P~i~ab~
+dumbbell-hollow-hold~Posición hollow con mancuerna~2~3~H~i~ab~
+machine-crunch~Abdominales en máquina~3~1~P~i~ab~
+cable-rope-kneeling-crunch~Crunch arrodillado en polea con cuerda~4~0~P~i~ab~
+cable-standing-crunch~Crunch de pie en polea~4~2~P~i~ab~
+cable-rope-kneeling-oblique-crunch~Crunch oblicuo arrodillado en polea~4~0~P~i~ob~ab
+kettlebell-situp~Abdominal con kettlebell~5~0~P~i~ab~
+band-crunch~Crunch con banda~6~2~P~i~ab~
+smith-machine-hanging-knee-tuck~Elevación de rodillas colgado en máquina Smith~7~0~P~i~ab~
+smith-machine-reverse-crunch-hip-raise~Crunch inverso con elevación de cadera en Smith~7~2~P~i~ab~
+trx-ab-rollout~Rollout abdominal en TRX~9~3~P~i~ab~do
+trx-kneeling-ab-rollout~Rollout abdominal de rodillas en TRX~9~2~P~i~ab~do
+hand-side-plank~Plancha lateral sobre la mano~1~0~H~i~ob~
+elbow-side-plank~Plancha lateral sobre antebrazo~1~1~H~i~ob~
+side-plank-up-down~Plancha lateral con subida y bajada~1~2~P~i~ob~
+dumbbell-russian-twist~Giro ruso con mancuerna~2~2~P~i~ob~ab
+bodyweight-russian-twist~Giro ruso con peso corporal~1~0~P~i~ob~ab
+kettlebell-russian-twist~Giro ruso con kettlebell~5~1~P~i~ob~ab
+kettlebell-windmill~Molino con pesa rusa~5~3~P~i~ob~ab
+dumbbell-wood-chopper~Leñador con mancuerna~2~2~P~i~ob~
+dumbbell-half-kneeling-wood-chopper~Leñador medio arrodillado con mancuerna~2~2~P~i~ob~ab
+cable-pallof-press~Press Pallof en polea~4~0~P~i~ob~ab
+cable-wood-chopper~Leñador en polea~4~0~P~i~ob~
+cable-half-kneeling-high-to-low-wood-chopper~Leñador alto-bajo medio arrodillado en polea~4~0~P~i~ob~
+kettlebell-wood-chopper~Leñador con pesa rusa~5~0~P~i~ob~
+band-pallof-press~Press Pallof con banda~6~0~P~i~ob~ab
+band-wood-chopper~Leñador con banda~6~3~P~i~ob~
+barbell-landmine-side-bend~Inclinación lateral en landmine~0~2~P~i~ob~
+smith-machine-side-bend~Inclinación lateral en máquina Smith~7~1~P~i~ob~
+plate-russian-twist~Giro ruso con disco~8~2~P~i~ob~ab
+landmine-kneeling-twist~Rotación arrodillado en landmine~0~2~P~i~ob~
