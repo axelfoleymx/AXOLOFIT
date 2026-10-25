@@ -1,10 +1,12 @@
-# Prompt para Base44 — Agregar el módulo de entrenamiento de AXOLOFIT a Nutrion
+# Prompt para Base44 — Renombrar Nutrion a Bumad y agregar el entrenamiento de AXOLOFIT
 
 Copia en Base44, dentro de la app **Nutrion**, todo lo que está debajo de la línea.
 
 ---
 
-Agrega a Nutrion un módulo de **entrenamiento de fuerza** igual al de la app AXOLOFIT, **sin romper nada de lo que ya funciona**: menús, expediente, aprende, estadísticas y puntos Nutrion. El código de referencia es público: https://github.com/axelfoleymx/AXOLOFIT. Lee estos archivos antes de empezar y replica su lógica tal cual (son funciones puras con pruebas):
+**Cambia el nombre de la app a «Bumad».** Usa «Bumad» en el título de la pestaña, el manifiesto, el encabezado, la pantalla de inicio de sesión, los textos y los mensajes de la mascota. Renombra «puntos Nutrion» a «puntos Bumad» y la pestaña central «Nutrion» a «Bumad». **No renombres entidades ni campos** (por ejemplo, `puntos_nutrion` y `ExpedientePaciente` se quedan igual) para no perder datos de los usuarios.
+
+Agrega a Bumad un módulo de **entrenamiento de fuerza** igual al de la app AXOLOFIT, **sin romper nada de lo que ya funciona**: menús, expediente, aprende, estadísticas y puntos Nutrion. El código de referencia es público: https://github.com/axelfoleymx/AXOLOFIT. Lee estos archivos antes de empezar y replica su lógica tal cual (son funciones puras con pruebas):
 - Catálogo de ejercicios: https://raw.githubusercontent.com/axelfoleymx/AXOLOFIT/main/data/base44/Ejercicio.csv (357 ejercicios; 93 con foto de inicio y fin; incluye patrón de movimiento, rango de repeticiones, incremento de carga, claves técnicas, errores comunes y sustitutos).
 - Progresión doble: https://raw.githubusercontent.com/axelfoleymx/AXOLOFIT/main/src/lib/calc/progression.ts
 - Rendimiento, volumen y récords: https://raw.githubusercontent.com/axelfoleymx/AXOLOFIT/main/src/lib/calc/training.ts
@@ -30,7 +32,7 @@ Al guardar, genera la rutina con el generador. Las lesiones se piden aparte, com
 ## 3. Pantallas
 - **Navegación:**
   - Agrega la pestaña **Entrenar** (ícono de pesa).
-  - Para no pasar de 5 pestañas: Inicio · Menú · Nutrion (centro) · Entrenar · Perfil.
+  - Para no pasar de 5 pestañas: Inicio · Menú · Bumad (centro) · Entrenar · Perfil.
   - **Aprende** pasa como acceso dentro de Inicio y de Perfil.
 - **Entrenar:**
   - Rutina activa con sus días.
@@ -76,11 +78,11 @@ Al guardar, genera la rutina con el generador. Las lesiones se piden aparte, com
 ## 5. Integración con nutrición (sin romper los cálculos actuales)
 - **No cambies la fórmula actual de kcal_objetivo.** El nivel de actividad de Nutrion ya incluye el ejercicio; sumar más sería contarlo dos veces.
 - Los días con sesión completada, muestra en Inicio la sugerencia «Hoy entrenaste: incluye proteína en tu siguiente comida o colación». Ofrece del catálogo una colación alta en proteína (yogur griego, huevo, pollo, queso panela, frijoles) que respete alergias y gustos.
-- **Puntos Nutrion:** suma 15 puntos por sesión completada y 10 por récord personal, igual que se suman al guardar un menú.
+- **Puntos Bumad:** suma 15 puntos por sesión completada y 10 por récord personal, igual que se suman al guardar un menú.
 - **Logros nuevos:** primera sesión, 10 sesiones, primer récord y semana cumplida.
 
 ## 6. Diseño
-- **Respeta el estilo actual de Nutrion** (pastel, kawaii, redondeado, mascota). No uses el tema oscuro de AXOLOFIT.
+- **Respeta el estilo actual de la app** (pastel, kawaii, redondeado, mascota). No uses el tema oscuro de AXOLOFIT.
 - El ajolote fuerte de AXOLOFIT puede aparecer en Entrenar como compañero de entrenamiento, con estas imágenes:
   - https://raw.githubusercontent.com/axelfoleymx/AXOLOFIT/main/public/mascot/lift.png
   - https://raw.githubusercontent.com/axelfoleymx/AXOLOFIT/main/public/mascot/trophy.png
@@ -94,4 +96,4 @@ Al guardar, genera la rutina con el generador. Las lesiones se piden aparte, com
 1. Con un usuario nuevo, abrir Entrenar → contestar las 3 preguntas → se genera la rutina y los ejercicios tienen foto cuando existe.
 2. Hacer press de banca con 30 kg × 10, 9 y 8, RIR 2, y terminar. La recomendación debe decir «Mantén 30 kg… intenta 10, 10, 9».
 3. Repetir con 12, 12 y 12. Debe recomendar subir a 32.5 kg.
-4. Menú, Inicio, Aprende y Perfil siguen funcionando igual y no hay errores en consola.
+4. Menú, Inicio, Aprende y Perfil siguen funcionando igual, los datos y puntos de los usuarios existentes se conservan, todo dice «Bumad» y no hay errores en consola.
