@@ -33,3 +33,5 @@ npm run validate:schema         # aplica la migración SQL en PGlite y comprueba
 `data/base44/` contiene CSV listos para importar como entidades: Alimento (364), RecetaMexicana (224), BebidaMexicana (100), EnfermedadAlimento (6 945), EducacionAprende (21), EducacionMetaNutricional (480) y Ejercicio (357; 93 con foto de inicio y fin de Free Exercise DB, emparejadas a mano). Están deduplicados y sin correos. Los valores nutricionales vienen expresados por 100 g. Para regenerarlos: `python3 -I scripts/export_base44.py src/data data/base44` y luego `python3 -I scripts/match_exercise_images.py <exercises.json de Free Exercise DB> src/data/musclewiki.txt data/base44/Ejercicio.csv`.
 
 Auditoría de la versión publicada en Base44: `AUDITORIA_UX.md`.
+
+Prompt para agregar el módulo de entrenamiento a Nutrion: `NUTRION_EJERCICIO_PROMPT.md`. Las columnas extra de `Ejercicio.csv` (patrón, repeticiones, incremento, claves técnicas, sustitutos) se generan con `npx vite-node scripts/export_exercise_meta.ts`.
