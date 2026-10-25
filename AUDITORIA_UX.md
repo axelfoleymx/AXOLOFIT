@@ -50,7 +50,7 @@ Todo lo demás se pregunta **en contexto, cuando hace falta**:
   - El anillo vacío y gris se ve apagado. Mejor que la mascota diga algo según la hora («¿Ya desayunaste? Registra en 10 s») y poner 3 botones grandes: comida, agua +250 y peso.
   - Las tarjetas de peso, racha, sesiones y agua repiten información: dejar 2, con mini gráficas.
 - **Navegación:** 6 pestañas abajo es demasiado en móvil. Mejor 5: Hoy, Comida, Entrenar, Progreso y Perfil. El Coach pasa a un botón flotante con el ajolote.
-- **Ejercicios:** foto de inicio y fin en cada ejercicio (98 ya emparejados, ver `data/base44/Ejercicio.csv`), además del enlace a MuscleWiki.
+- **Ejercicios:** foto de inicio y fin en cada ejercicio (93 ya emparejados, ver `data/base44/Ejercicio.csv`), además del enlace a MuscleWiki.
 - **Celebraciones:**
   - Al terminar una sesión, al romper un récord y al cumplir la proteína: ajolote con trofeo, confeti breve y vibración.
   - Nada de castigos: perder una racha no muestra un mensaje negativo.
